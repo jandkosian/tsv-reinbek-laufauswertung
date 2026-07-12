@@ -6,5 +6,15 @@
     "durationMin": 35.5,
     "paceMinKm": 5.057,
     "calories": 502
+  },
+  {
+    "player": "Julius Höhne",
+    "date": "2026-07-12",
+    "distanceKm": 7.00,
+    "durationMin": 29.017,
+    "paceMinKm": 4.15,
+    "calories": 647,
+    "elevationM": 28,
+    "cadence": 164
   }
 ]
