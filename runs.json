@@ -2,19 +2,19 @@
   {
     "player": "Nelio Kosian",
     "date": "2026-07-12",
-    "distanceKm": 7.02,
-    "durationMin": 35.5,
-    "paceMinKm": 5.057,
+    "distance_km": 7.02,
+    "duration_min": 35.5,
+    "pace_min_km": 5.057,
     "calories": 502
   },
   {
     "player": "Julius Höhne",
     "date": "2026-07-12",
-    "distanceKm": 7.00,
-    "durationMin": 29.017,
-    "paceMinKm": 4.15,
+    "distance_km": 7.00,
+    "duration_min": 29.017,
+    "pace_min_km": 4.15,
     "calories": 647,
-    "elevationM": 28,
+    "elevation_m": 28,
     "cadence": 164
   }
 ]
