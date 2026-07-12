@@ -453,8 +453,19 @@
 </footer>
 
 <script>
-// ── Data (wird von Harvey automatisch aktualisiert) ──────────────────────────
-const RUNS = __RUNS_DATA__;
+// ── Data — lädt runs.json vom gleichen Server ────────────────────────────────
+let RUNS = [];
+
+async function loadAndRender() {
+  try {
+    const res = await fetch('./runs.json');
+    RUNS = await res.json();
+  } catch(e) {
+    console.warn('runs.json nicht geladen:', e);
+    RUNS = [];
+  }
+  render();
+}
 
 // ── Helpers ─────────────────────────────────────────────────────────────────
 function fmtPace(p) {
@@ -599,7 +610,7 @@ function render() {
   }
 }
 
-render();
+loadAndRender();
 </script>
 </body>
 </html>
