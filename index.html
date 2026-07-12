@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TSV Reinbek · B-Jugend 2010 · Laufauswertung</title>
+<style>
+  :root {
+    --red:    #D52326;
+    --red-dk: #A91B1E;
+    --black:  #0F0F0F;
+    --white:  #FFFFFF;
+    --gray:   #F4F4F4;
+    --mid:    #888;
+    --card:   #FFFFFF;
+    --border: #E5E5E5;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    background: #F0F0F0;
+    color: var(--black);
+    min-height: 100vh;
+  }
+
+  /* ── Header ── */
+  header {
+    background: var(--black);
+    padding: 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.4);
+  }
+  .header-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 14px 20px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  .header-badge {
+    background: var(--red);
+    color: #fff;
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    border-radius: 3px;
+  }
+  header h1 {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+  }
+  header p {
+    color: rgba(255,255,255,0.45);
+    font-size: 11px;
+    margin-top: 1px;
+    font-family: monospace;
+    letter-spacing: 0.5px;
+  }
+  .red-line {
+    height: 3px;
+    background: linear-gradient(90deg, var(--red), #ff6b6e, var(--red));
+  }
+
+  /* ── Layout ── */
+  .container { max-width: 1100px; margin: 0 auto; padding: 24px 16px; }
+
+  /* ── Stat-Banner ── */
+  .stats-banner {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 12px;
+    margin-bottom: 28px;
+  }
+  .stat-box {
+    background: var(--card);
+    border-radius: 10px;
+    padding: 16px 18px;
+    border-left: 4px solid var(--red);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+  }
+  .stat-box .label {
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--mid);
+    margin-bottom: 4px;
+  }
+  .stat-box .value {
+    font-size: 26px;
+    font-weight: 800;
+    color: var(--red);
+    line-height: 1;
+  }
+  .stat-box .unit {
+    font-size: 12px;
+    color: var(--mid);
+    margin-top: 2px;
+  }
+
+  /* ── Filter/Sort Bar ── */
+  .toolbar {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+    align-items: center;
+  }
+  .toolbar label {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--mid);
+    margin-right: 2px;
+  }
+  .toolbar select, .toolbar input {
+    border: 1.5px solid var(--border);
+    border-radius: 7px;
+    padding: 6px 10px;
+    font-size: 13px;
+    background: #fff;
+    color: var(--black);
+    cursor: pointer;
+    outline: none;
+  }
+  .toolbar select:focus, .toolbar input:focus {
+    border-color: var(--red);
+  }
+
+  /* ── Leaderboard ── */
+  .section-title {
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--mid);
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .section-title::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+
+  /* Player Cards Grid */
+  .player-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 14px;
+    margin-bottom: 32px;
+  }
+  .player-card {
+    background: var(--card);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.09);
+    transition: transform 0.15s, box-shadow 0.15s;
+  }
+  .player-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.13);
+  }
+  .player-card-header {
+    background: var(--black);
+    padding: 12px 16px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .player-rank {
+    background: var(--red);
+    color: #fff;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    font-weight: 800;
+    flex-shrink: 0;
+  }
+  .player-rank.gold   { background: #F5C518; color: #000; }
+  .player-rank.silver { background: #A8A9AD; color: #000; }
+  .player-rank.bronze { background: #CD7F32; color: #fff; }
+  .player-name {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+  }
+  .player-runs-count {
+    margin-left: auto;
+    font-size: 11px;
+    color: rgba(255,255,255,0.4);
+    font-family: monospace;
+  }
+  .player-card-body {
+    padding: 14px 16px;
+  }
+  .player-stats-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+  .ps {
+    text-align: center;
+  }
+  .ps .ps-val {
+    font-size: 18px;
+    font-weight: 800;
+    color: var(--black);
+    line-height: 1;
+  }
+  .ps .ps-lbl {
+    font-size: 9px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--mid);
+    margin-top: 2px;
+  }
+
+  /* Mini Run History */
+  .run-history {
+    border-top: 1px solid var(--border);
+    padding-top: 10px;
+  }
+  .run-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 5px 0;
+    border-bottom: 1px solid var(--gray);
+    font-size: 12px;
+  }
+  .run-row:last-child { border-bottom: none; }
+  .run-date {
+    color: var(--mid);
+    font-family: monospace;
+    font-size: 11px;
+    width: 60px;
+    flex-shrink: 0;
+  }
+  .run-dist {
+    font-weight: 700;
+    color: var(--red);
+    width: 44px;
+    flex-shrink: 0;
+  }
+  .run-pace {
+    color: var(--mid);
+    width: 52px;
+    flex-shrink: 0;
+    font-family: monospace;
+    font-size: 11px;
+  }
+  .run-bar-wrap {
+    flex: 1;
+    height: 5px;
+    background: var(--gray);
+    border-radius: 3px;
+    overflow: hidden;
+  }
+  .run-bar {
+    height: 100%;
+    background: var(--red);
+    border-radius: 3px;
+    transition: width 0.6s ease;
+  }
+  .run-hr {
+    font-size: 10px;
+    color: var(--mid);
+    font-family: monospace;
+    width: 40px;
+    text-align: right;
+    flex-shrink: 0;
+  }
+
+  /* ── Run Table ── */
+  .table-wrap {
+    background: var(--card);
+    border-radius: 12px;
+    overflow: auto;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.09);
+    margin-bottom: 32px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+  }
+  thead th {
+    background: var(--black);
+    color: rgba(255,255,255,0.7);
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    padding: 10px 14px;
+    text-align: left;
+    white-space: nowrap;
+    cursor: pointer;
+    user-select: none;
+  }
+  thead th:hover { color: #fff; }
+  thead th.sorted { color: var(--red); }
+  thead th .sort-icon { margin-left: 4px; opacity: 0.5; }
+  thead th.sorted .sort-icon { opacity: 1; }
+  tbody tr:nth-child(even) { background: var(--gray); }
+  tbody tr:hover { background: #ffeaea; }
+  tbody td {
+    padding: 9px 14px;
+    border-bottom: 1px solid var(--border);
+    white-space: nowrap;
+    vertical-align: middle;
+  }
+  tbody td:last-child { border-bottom: none; }
+  .td-player { font-weight: 700; color: var(--black); }
+  .td-dist   { font-weight: 800; color: var(--red); }
+  .td-pace   { font-family: monospace; color: var(--mid); }
+  .td-hr     { font-family: monospace; }
+  .badge-app {
+    display: inline-block;
+    background: var(--gray);
+    color: var(--mid);
+    font-size: 9px;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+    padding: 2px 6px;
+    border-radius: 4px;
+  }
+
+  /* ── Empty state ── */
+  .empty {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--mid);
+  }
+  .empty .icon { font-size: 48px; margin-bottom: 12px; }
+  .empty h3 { font-size: 16px; margin-bottom: 6px; color: var(--black); }
+  .empty p { font-size: 13px; line-height: 1.6; }
+
+  /* ── Footer ── */
+  footer {
+    background: var(--black);
+    color: rgba(255,255,255,0.3);
+    text-align: center;
+    padding: 16px;
+    font-size: 11px;
+    font-family: monospace;
+    letter-spacing: 0.5px;
+  }
+  footer span { color: var(--red); }
+
+  @media (max-width: 600px) {
+    .player-grid { grid-template-columns: 1fr; }
+    .stats-banner { grid-template-columns: repeat(2, 1fr); }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <span class="header-badge">TSV</span>
+    <div>
+      <h1>Laufauswertung · B-Jugend Jg. 2010</h1>
+      <p>Als Mannschaft. Als Team. Als Einheit.</p>
+    </div>
+  </div>
+  <div class="red-line"></div>
+</header>
+
+<div class="container">
+
+  <!-- Stats Banner -->
+  <div class="stats-banner" id="stats-banner">
+    <div class="stat-box">
+      <div class="label">Einheiten gesamt</div>
+      <div class="value" id="stat-runs">—</div>
+      <div class="unit">Läufe</div>
+    </div>
+    <div class="stat-box">
+      <div class="label">Km gesamt (Team)</div>
+      <div class="value" id="stat-km">—</div>
+      <div class="unit">Kilometer</div>
+    </div>
+    <div class="stat-box">
+      <div class="label">Aktivste Spieler</div>
+      <div class="value" id="stat-players">—</div>
+      <div class="unit">Spieler mit Einheiten</div>
+    </div>
+    <div class="stat-box">
+      <div class="label">Beste Pace</div>
+      <div class="value" id="stat-pace">—</div>
+      <div class="unit">Min/km (schnellster Lauf)</div>
+    </div>
+  </div>
+
+  <!-- Toolbar -->
+  <div class="toolbar">
+    <label>Sortieren:</label>
+    <select id="sort-by" onchange="render()">
+      <option value="km_total">Gesamtkm</option>
+      <option value="runs">Anzahl Läufe</option>
+      <option value="best_pace">Beste Pace</option>
+      <option value="avg_dist">Ø Distanz</option>
+    </select>
+    <label style="margin-left:12px">Spieler:</label>
+    <input type="text" id="filter-player" placeholder="Name filtern…" oninput="render()" style="width:160px">
+  </div>
+
+  <!-- Player Cards -->
+  <div class="section-title">Spieler-Vergleich</div>
+  <div class="player-grid" id="player-grid"></div>
+
+  <!-- Run Table -->
+  <div class="section-title">Alle Läufe</div>
+  <div class="table-wrap">
+    <table id="run-table">
+      <thead>
+        <tr>
+          <th onclick="sortTable('player')" id="th-player">Spieler <span class="sort-icon">↕</span></th>
+          <th onclick="sortTable('date')" id="th-date">Datum <span class="sort-icon">↕</span></th>
+          <th onclick="sortTable('distance_km')" id="th-dist">Distanz <span class="sort-icon">↕</span></th>
+          <th onclick="sortTable('duration_min')" id="th-dur">Zeit <span class="sort-icon">↕</span></th>
+          <th onclick="sortTable('pace_min_km')" id="th-pace">Pace <span class="sort-icon">↕</span></th>
+          <th onclick="sortTable('avg_hr')" id="th-hr">Ø HF <span class="sort-icon">↕</span></th>
+          <th onclick="sortTable('elevation_m')" id="th-elev">Höhenmeter <span class="sort-icon">↕</span></th>
+          <th>App</th>
+        </tr>
+      </thead>
+      <tbody id="run-tbody"></tbody>
+    </table>
+  </div>
+
+</div>
+
+<footer>
+  TSV Reinbek von 1892 e.V. · 1. B-Jugend · Jg. 2010 · <span>Landesliga Hamburg</span>
+</footer>
+
+<script>
+// ── Data (wird von Harvey automatisch aktualisiert) ──────────────────────────
+const RUNS = __RUNS_DATA__;
+
+// ── Helpers ─────────────────────────────────────────────────────────────────
+function fmtPace(p) {
+  if (!p) return '—';
+  const m = Math.floor(p);
+  const s = Math.round((p - m) * 60);
+  return `${m}:${String(s).padStart(2,'0')}`;
+}
+function fmtDur(min) {
+  if (!min) return '—';
+  const h = Math.floor(min / 60);
+  const m = Math.round(min % 60);
+  return h > 0 ? `${h}h ${m}min` : `${m} min`;
+}
+function fmtDate(d) {
+  if (!d) return '—';
+  const dt = new Date(d);
+  return dt.toLocaleDateString('de-DE', { day:'2-digit', month:'2-digit' });
+}
+
+// ── Aggregate per player ─────────────────────────────────────────────────────
+function buildPlayers(runs) {
+  const map = {};
+  for (const r of runs) {
+    if (!map[r.player]) map[r.player] = { player: r.player, runs: [] };
+    map[r.player].runs.push(r);
+  }
+  return Object.values(map).map(p => {
+    const runs = p.runs.sort((a,b) => new Date(b.date) - new Date(a.date));
+    const km = runs.reduce((s,r) => s + (r.distance_km||0), 0);
+    const validPaces = runs.filter(r => r.pace_min_km).map(r => r.pace_min_km);
+    const bestPace = validPaces.length ? Math.min(...validPaces) : null;
+    const avgDist = km / runs.length;
+    const hrs = runs.filter(r => r.avg_hr).map(r => r.avg_hr);
+    const avgHr = hrs.length ? Math.round(hrs.reduce((s,v)=>s+v,0)/hrs.length) : null;
+    return { ...p, km_total: +km.toFixed(2), best_pace: bestPace, avg_dist: +avgDist.toFixed(2), avg_hr: avgHr };
+  });
+}
+
+// ── Sort state ────────────────────────────────────────────────────────────────
+let tableSortCol = 'date';
+let tableSortDir = -1; // -1 = desc
+
+function sortTable(col) {
+  if (tableSortCol === col) tableSortDir *= -1;
+  else { tableSortCol = col; tableSortDir = -1; }
+  render();
+  document.querySelectorAll('thead th').forEach(th => th.classList.remove('sorted'));
+  const thMap = { player:'th-player', date:'th-date', distance_km:'th-dist',
+    duration_min:'th-dur', pace_min_km:'th-pace', avg_hr:'th-hr', elevation_m:'th-elev' };
+  if (thMap[col]) document.getElementById(thMap[col])?.classList.add('sorted');
+}
+
+// ── Render ────────────────────────────────────────────────────────────────────
+function render() {
+  const sortBy = document.getElementById('sort-by').value;
+  const filterVal = document.getElementById('filter-player').value.trim().toLowerCase();
+  const runs = filterVal ? RUNS.filter(r => r.player.toLowerCase().includes(filterVal)) : RUNS;
+
+  // ── Stats Banner ──
+  const totalKm = RUNS.reduce((s,r) => s+r.distance_km, 0);
+  const allPaces = RUNS.filter(r=>r.pace_min_km).map(r=>r.pace_min_km);
+  const bestPace = allPaces.length ? Math.min(...allPaces) : null;
+  const activePlayers = new Set(RUNS.map(r=>r.player)).size;
+  document.getElementById('stat-runs').textContent = RUNS.length;
+  document.getElementById('stat-km').textContent = totalKm.toFixed(1);
+  document.getElementById('stat-players').textContent = activePlayers;
+  document.getElementById('stat-pace').textContent = bestPace ? fmtPace(bestPace) : '—';
+
+  // ── Player Cards ──
+  let players = buildPlayers(runs);
+  players.sort((a,b) => {
+    const av = a[sortBy] ?? (sortBy==='best_pace' ? 999 : -1);
+    const bv = b[sortBy] ?? (sortBy==='best_pace' ? 999 : -1);
+    return sortBy === 'best_pace' ? av - bv : bv - av;
+  });
+
+  const maxKm = Math.max(...players.map(p=>p.km_total), 1);
+  const grid = document.getElementById('player-grid');
+
+  if (players.length === 0) {
+    grid.innerHTML = `<div class="empty" style="grid-column:1/-1">
+      <div class="icon">🏃</div>
+      <h3>Noch keine Laufdaten</h3>
+      <p>Schickt dem Trainer eure Lauf-Screenshots — Harvey trägt sie automatisch ein.</p>
+    </div>`;
+  } else {
+    grid.innerHTML = players.map((p, i) => {
+      const rankClass = i===0?'gold':i===1?'silver':i===2?'bronze':'';
+      const recentRuns = p.runs.slice(0,5);
+      const runRows = recentRuns.map(r => {
+        const barPct = Math.round((r.distance_km / maxKm) * 100);
+        return `<div class="run-row">
+          <span class="run-date">${fmtDate(r.date)}</span>
+          <span class="run-dist">${r.distance_km} km</span>
+          <span class="run-pace">${fmtPace(r.pace_min_km)}</span>
+          <div class="run-bar-wrap"><div class="run-bar" style="width:${barPct}%"></div></div>
+          <span class="run-hr">${r.avg_hr ? r.avg_hr+'♥' : ''}</span>
+        </div>`;
+      }).join('');
+      return `<div class="player-card">
+        <div class="player-card-header">
+          <div class="player-rank ${rankClass}">${i+1}</div>
+          <div class="player-name">${p.player}</div>
+          <div class="player-runs-count">${p.runs.length} Läufe</div>
+        </div>
+        <div class="player-card-body">
+          <div class="player-stats-row">
+            <div class="ps"><div class="ps-val">${p.km_total.toFixed(1)}</div><div class="ps-lbl">Gesamt km</div></div>
+            <div class="ps"><div class="ps-val">${fmtPace(p.best_pace)}</div><div class="ps-lbl">Beste Pace</div></div>
+            <div class="ps"><div class="ps-val">${p.avg_dist.toFixed(1)}</div><div class="ps-lbl">Ø Distanz</div></div>
+          </div>
+          <div class="run-history">${runRows}</div>
+        </div>
+      </div>`;
+    }).join('');
+  }
+
+  // ── Run Table ──
+  let tableRuns = [...runs].sort((a,b) => {
+    const av = a[tableSortCol] ?? '';
+    const bv = b[tableSortCol] ?? '';
+    if (av < bv) return -1 * tableSortDir;
+    if (av > bv) return 1 * tableSortDir;
+    return 0;
+  });
+
+  const tbody = document.getElementById('run-tbody');
+  if (tableRuns.length === 0) {
+    tbody.innerHTML = `<tr><td colspan="8" style="text-align:center;padding:40px;color:#888">Noch keine Läufe eingetragen.</td></tr>`;
+  } else {
+    tbody.innerHTML = tableRuns.map(r => `<tr>
+      <td class="td-player">${r.player}</td>
+      <td>${r.date ? new Date(r.date).toLocaleDateString('de-DE') : '—'}</td>
+      <td class="td-dist">${r.distance_km} km</td>
+      <td>${fmtDur(r.duration_min)}</td>
+      <td class="td-pace">${fmtPace(r.pace_min_km)}</td>
+      <td class="td-hr">${r.avg_hr ? r.avg_hr + ' bpm' : '—'}</td>
+      <td>${r.elevation_m ? r.elevation_m + ' m' : '—'}</td>
+      <td><span class="badge-app">${r.app || '—'}</span></td>
+    </tr>`).join('');
+  }
+}
+
+render();
+</script>
+</body>
+</html>
