@@ -414,7 +414,7 @@
     <label>Sortieren:</label>
     <select id="sort-by" onchange="render()">
       <option value="km_total">Gesamtkm</option>
-      <option value="runs">Anzahl Läufe</option>
+      <option value="runs_count">Anzahl Läufe</option>
       <option value="best_pace">Beste Pace</option>
       <option value="avg_dist">Ø Distanz</option>
     </select>
@@ -501,7 +501,7 @@ function buildPlayers(runs) {
     const avgDist = km / runs.length;
     const hrs = runs.filter(r => r.avg_hr).map(r => r.avg_hr);
     const avgHr = hrs.length ? Math.round(hrs.reduce((s,v)=>s+v,0)/hrs.length) : null;
-    return { ...p, km_total: +km.toFixed(2), best_pace: bestPace, avg_dist: +avgDist.toFixed(2), avg_hr: avgHr };
+    return { ...p, km_total: +km.toFixed(2), best_pace: bestPace, avg_dist: +avgDist.toFixed(2), avg_hr: avgHr, runs_count: runs.length };
   });
 }
 
