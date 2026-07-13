@@ -53,5 +53,14 @@
     "duration_min": 36.217,
     "pace_min_km": 5.162,
     "calories": 392
+  },
+  {
+    "player": "Julian Wojtowicz",
+    "date": "2026-07-13",
+    "distance_km": 5.93,
+    "duration_min": 42.167,
+    "pace_min_km": 7.11,
+    "calories": 427,
+    "note": "Abgebrochen (Rückenschmerzen)"
   }
 ]
