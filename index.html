@@ -258,6 +258,12 @@
     width: 44px;
     flex-shrink: 0;
   }
+  .run-dur {
+    color: var(--mid);
+    width: 48px;
+    flex-shrink: 0;
+    font-size: 11px;
+  }
   .run-pace {
     color: var(--mid);
     width: 52px;
@@ -496,12 +502,13 @@ function buildPlayers(runs) {
   return Object.values(map).map(p => {
     const runs = p.runs.sort((a,b) => new Date(b.date) - new Date(a.date));
     const km = runs.reduce((s,r) => s + (r.distance_km||0), 0);
+    const totalDuration = runs.reduce((s,r) => s + (r.duration_min||0), 0);
     const validPaces = runs.filter(r => r.pace_min_km).map(r => r.pace_min_km);
     const bestPace = validPaces.length ? Math.min(...validPaces) : null;
     const avgDist = km / runs.length;
     const hrs = runs.filter(r => r.avg_hr).map(r => r.avg_hr);
     const avgHr = hrs.length ? Math.round(hrs.reduce((s,v)=>s+v,0)/hrs.length) : null;
-    return { ...p, km_total: +km.toFixed(2), best_pace: bestPace, avg_dist: +avgDist.toFixed(2), avg_hr: avgHr, runs_count: runs.length };
+    return { ...p, km_total: +km.toFixed(2), total_duration: +totalDuration.toFixed(1), best_pace: bestPace, avg_dist: +avgDist.toFixed(2), avg_hr: avgHr, runs_count: runs.length };
   });
 }
 
@@ -561,6 +568,7 @@ function render() {
         return `<div class="run-row">
           <span class="run-date">${fmtDate(r.date)}</span>
           <span class="run-dist">${r.distance_km} km</span>
+          <span class="run-dur">${fmtDur(r.duration_min)}</span>
           <span class="run-pace">${fmtPace(r.pace_min_km)}</span>
           <div class="run-bar-wrap"><div class="run-bar" style="width:${barPct}%"></div></div>
           <span class="run-hr">${r.avg_hr ? r.avg_hr+'♥' : ''}</span>
@@ -576,6 +584,7 @@ function render() {
           <div class="player-stats-row">
             <div class="ps"><div class="ps-val">${p.km_total.toFixed(1)}</div><div class="ps-lbl">Gesamt km</div></div>
             <div class="ps"><div class="ps-val">${fmtPace(p.best_pace)}</div><div class="ps-lbl">Beste Pace</div></div>
+            <div class="ps"><div class="ps-val">${fmtDur(p.total_duration)}</div><div class="ps-lbl">Gesamt Zeit</div></div>
             <div class="ps"><div class="ps-val">${p.avg_dist.toFixed(1)}</div><div class="ps-lbl">Ø Distanz</div></div>
           </div>
           <div class="run-history">${runRows}</div>
