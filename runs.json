@@ -36,5 +36,14 @@
     "calories": 569,
     "avg_hr": 157,
     "cadence": 149
+  },
+  {
+    "player": "Mika Meyns",
+    "date": "2026-07-13",
+    "distance_km": 7.01,
+    "duration_min": 42.167,
+    "pace_min_km": 6.017,
+    "elevation_m": 5,
+    "app": "Strava"
   }
 ]
