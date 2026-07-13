@@ -45,5 +45,21 @@
     "pace_min_km": 6.017,
     "elevation_m": 5,
     "app": "Strava"
+  },
+  {
+    "player": "Jonte Steudten",
+    "date": "2026-07-13",
+    "distance_km": 8.05,
+    "duration_min": 39.167,
+    "pace_min_km": 4.85,
+    "calories": 322
+  },
+  {
+    "player": "Jonte Steudten",
+    "date": "2026-07-13",
+    "distance_km": 7.016,
+    "duration_min": 36.217,
+    "pace_min_km": 5.162,
+    "calories": 392
   }
 ]
