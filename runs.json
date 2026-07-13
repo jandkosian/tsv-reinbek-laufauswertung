@@ -87,5 +87,13 @@
     "duration_min": 32.617,
     "pace_min_km": 4.65,
     "elevation_m": 8
+  },
+  {
+    "player": "Lasse Schaumann",
+    "date": "2026-07-13",
+    "distance_km": 7.06,
+    "duration_min": 36.483,
+    "pace_min_km": 5.167,
+    "elevation_m": 31
   }
 ]
