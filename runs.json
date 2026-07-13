@@ -62,5 +62,14 @@
     "pace_min_km": 7.11,
     "calories": 427,
     "note": "Abgebrochen (Rückenschmerzen)"
+  },
+  {
+    "player": "Lars Poggenhorn",
+    "date": "2026-07-13",
+    "distance_km": 7.16,
+    "duration_min": 43.0,
+    "pace_min_km": 6.0,
+    "calories": 510,
+    "cadence": 140
   }
 ]
