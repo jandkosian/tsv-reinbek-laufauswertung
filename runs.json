@@ -95,5 +95,14 @@
     "duration_min": 36.483,
     "pace_min_km": 5.167,
     "elevation_m": 31
+  },
+  {
+    "player": "Elias Timmann",
+    "date": "2026-07-13",
+    "distance_km": 7.01,
+    "duration_min": 34.15,
+    "pace_min_km": 4.867,
+    "calories": 512,
+    "elevation_m": 7
   }
 ]
