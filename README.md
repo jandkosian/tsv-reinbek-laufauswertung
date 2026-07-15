@@ -17,7 +17,7 @@
 | Steewen Neugebauer | 13.07. | 7,10 km | 34:46 | 4:54 /km | — |
 | Jonte Steudten | 13.07. | 7,02 km | 36:13 | 5:10 /km | Chia, Sardinien 🇮🇹 |
 | Lasse Schaumann | 13.07. | 7,06 km | 36:29 | 5:10 /km | Hourtin, Frankreich 🇫🇷 |
-| Nelio Kosian | 12.07. | 7,02 km | 35:30 | 5:04 /km | Nordseeküste |
+| Nelio Kosian | 12.07. | 7,02 km | 35:30 | 5:04 /km | Fehmarn |
 | Elias Santoro | 13.07. | 6,99 km | 42:11 | 6:01 /km | Reinbek |
 | Mika Meyns | 13.07. | 7,01 km | 42:10 | 6:01 /km | Kirchwerder |
 | Lars Poggenhorn | 13.07. | 7,16 km | 43:00 | 6:00 /km | Hamwarde |
