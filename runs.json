@@ -104,5 +104,13 @@
     "pace_min_km": 4.867,
     "calories": 512,
     "elevation_m": 7
+  },
+  {
+    "player": "David Alimi",
+    "date": "2026-07-15",
+    "distance_km": 7.042,
+    "duration_min": 40.067,
+    "pace_min_km": 5.683,
+    "calories": 456
   }
 ]
