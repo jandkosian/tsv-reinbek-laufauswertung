@@ -158,5 +158,16 @@
     "location": "Glinde",
     "lat": 53.533,
     "lng": 10.22
+  },
+  {
+    "player": "Jonte Steudten",
+    "date": "2026-07-15",
+    "distance_km": 7.014,
+    "duration_min": 31.717,
+    "pace_min_km": 4.511,
+    "calories": 358,
+    "location": "Chia, Sardinien",
+    "lat": 38.87,
+    "lng": 8.91
   }
 ]
