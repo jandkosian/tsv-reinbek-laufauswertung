@@ -264,6 +264,15 @@
     flex-shrink: 0;
     font-size: 11px;
   }
+  .run-loc {
+    color: var(--mid);
+    font-size: 10px;
+    flex-shrink: 0;
+    max-width: 90px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
   .run-pace {
     color: var(--mid);
     width: 52px;
@@ -445,6 +454,7 @@
           <th onclick="sortTable('pace_min_km')" id="th-pace">Pace <span class="sort-icon">↕</span></th>
           <th onclick="sortTable('avg_hr')" id="th-hr">Ø HF <span class="sort-icon">↕</span></th>
           <th onclick="sortTable('elevation_m')" id="th-elev">Höhenmeter <span class="sort-icon">↕</span></th>
+          <th>Ort</th>
           <th>App</th>
         </tr>
       </thead>
@@ -571,7 +581,7 @@ function render() {
           <span class="run-dur">${fmtDur(r.duration_min)}</span>
           <span class="run-pace">${fmtPace(r.pace_min_km)}</span>
           <div class="run-bar-wrap"><div class="run-bar" style="width:${barPct}%"></div></div>
-          <span class="run-hr">${r.avg_hr ? r.avg_hr+'♥' : ''}</span>
+          <span class="run-loc">${r.location && r.location !== 'Unbekannt' ? '📍'+r.location : ''}</span>
         </div>`;
       }).join('');
       return `<div class="player-card">
@@ -614,6 +624,7 @@ function render() {
       <td class="td-pace">${fmtPace(r.pace_min_km)}</td>
       <td class="td-hr">${r.avg_hr ? r.avg_hr + ' bpm' : '—'}</td>
       <td>${r.elevation_m ? r.elevation_m + ' m' : '—'}</td>
+      <td>${r.location && r.location !== 'Unbekannt' ? r.location : '—'}</td>
       <td><span class="badge-app">${r.app || '—'}</span></td>
     </tr>`).join('');
   }

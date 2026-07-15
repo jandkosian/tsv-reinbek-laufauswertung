@@ -5,7 +5,8 @@
     "distance_km": 7.02,
     "duration_min": 35.5,
     "pace_min_km": 5.057,
-    "calories": 502
+    "calories": 502,
+    "location": "Nordseeküste"
   },
   {
     "player": "Julius Höhne",
@@ -15,7 +16,8 @@
     "pace_min_km": 4.15,
     "calories": 647,
     "elevation_m": 28,
-    "cadence": 164
+    "cadence": 164,
+    "location": "Fehmarn"
   },
   {
     "player": "Julius Höhne",
@@ -25,7 +27,8 @@
     "pace_min_km": 4.183,
     "calories": 649,
     "elevation_m": 50,
-    "cadence": 165
+    "cadence": 165,
+    "location": "Hamburg"
   },
   {
     "player": "Elias Santoro",
@@ -35,7 +38,8 @@
     "pace_min_km": 6.017,
     "calories": 569,
     "avg_hr": 157,
-    "cadence": 149
+    "cadence": 149,
+    "location": "Reinbek"
   },
   {
     "player": "Mika Meyns",
@@ -44,7 +48,8 @@
     "duration_min": 42.167,
     "pace_min_km": 6.017,
     "elevation_m": 5,
-    "app": "Strava"
+    "app": "Strava",
+    "location": "Kirchwerder"
   },
   {
     "player": "Jonte Steudten",
@@ -52,7 +57,8 @@
     "distance_km": 7.016,
     "duration_min": 36.217,
     "pace_min_km": 5.162,
-    "calories": 392
+    "calories": 392,
+    "location": "Chia, Sardinien"
   },
   {
     "player": "Julian Wojtowicz",
@@ -61,7 +67,8 @@
     "duration_min": 42.167,
     "pace_min_km": 7.11,
     "calories": 427,
-    "note": "Abgebrochen (Rückenschmerzen)"
+    "note": "Abgebrochen (Rückenschmerzen)",
+    "location": "Unbekannt"
   },
   {
     "player": "Lars Poggenhorn",
@@ -70,7 +77,8 @@
     "duration_min": 43.0,
     "pace_min_km": 6.0,
     "calories": 510,
-    "cadence": 140
+    "cadence": 140,
+    "location": "Hamwarde"
   },
   {
     "player": "Steewen Neugebauer",
@@ -78,7 +86,8 @@
     "distance_km": 7.10,
     "duration_min": 34.767,
     "pace_min_km": 4.9,
-    "avg_hr": 188
+    "avg_hr": 188,
+    "location": "Unbekannt"
   },
   {
     "player": "Fabian Lüders",
@@ -86,7 +95,8 @@
     "distance_km": 7.02,
     "duration_min": 32.617,
     "pace_min_km": 4.65,
-    "elevation_m": 8
+    "elevation_m": 8,
+    "location": "Glinde"
   },
   {
     "player": "Lasse Schaumann",
@@ -94,7 +104,8 @@
     "distance_km": 7.06,
     "duration_min": 36.483,
     "pace_min_km": 5.167,
-    "elevation_m": 31
+    "elevation_m": 31,
+    "location": "Hourtin, Frankreich"
   },
   {
     "player": "Elias Timmann",
@@ -103,7 +114,8 @@
     "duration_min": 34.15,
     "pace_min_km": 4.867,
     "calories": 512,
-    "elevation_m": 7
+    "elevation_m": 7,
+    "location": "Börnsen"
   },
   {
     "player": "David Alimi",
@@ -111,6 +123,7 @@
     "distance_km": 7.042,
     "duration_min": 40.067,
     "pace_min_km": 5.683,
-    "calories": 456
+    "calories": 456,
+    "location": "Karlsgårde, Dänemark"
   }
 ]
