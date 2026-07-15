@@ -125,5 +125,14 @@
     "pace_min_km": 5.683,
     "calories": 456,
     "location": "Karlsgårde, Dänemark"
+  },
+  {
+    "player": "Fabian Lüders",
+    "date": "2026-07-15",
+    "distance_km": 7.01,
+    "duration_min": 38.25,
+    "pace_min_km": 5.45,
+    "elevation_m": 0,
+    "location": "Glinde"
   }
 ]
