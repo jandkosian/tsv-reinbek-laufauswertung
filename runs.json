@@ -181,5 +181,13 @@
     "location": "Hamwarde",
     "lat": 53.495,
     "lng": 10.415
+  },
+  {
+    "player": "Elias Santoro",
+    "date": "2026-07-16",
+    "distance_km": 7.00,
+    "duration_min": 38.0,
+    "pace_min_km": 5.417,
+    "location": "Unbekannt"
   }
 ]
