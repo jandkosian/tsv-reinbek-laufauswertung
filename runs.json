@@ -188,6 +188,8 @@
     "distance_km": 7.00,
     "duration_min": 38.0,
     "pace_min_km": 5.417,
-    "location": "Unbekannt"
+    "location": "Reinbek",
+    "lat": 53.521,
+    "lng": 10.245
   }
 ]
