@@ -169,5 +169,17 @@
     "location": "Chia, Sardinien",
     "lat": 38.87,
     "lng": 8.91
+  },
+  {
+    "player": "Lars Poggenhorn",
+    "date": "2026-07-15",
+    "distance_km": 7.07,
+    "duration_min": 39.85,
+    "pace_min_km": 5.633,
+    "calories": 498,
+    "cadence": 146,
+    "location": "Hamwarde",
+    "lat": 53.495,
+    "lng": 10.415
   }
 ]
