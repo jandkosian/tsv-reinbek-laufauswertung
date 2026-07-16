@@ -191,5 +191,17 @@
     "location": "Reinbek",
     "lat": 53.521,
     "lng": 10.245
+  },
+  {
+    "player": "Elias Timmann",
+    "date": "2026-07-16",
+    "distance_km": 7.01,
+    "duration_min": 33.383,
+    "pace_min_km": 4.75,
+    "calories": 514,
+    "elevation_m": 8,
+    "location": "Börnsen",
+    "lat": 53.441,
+    "lng": 10.301
   }
 ]
