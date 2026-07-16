@@ -203,5 +203,14 @@
     "location": "Börnsen",
     "lat": 53.441,
     "lng": 10.301
+  },
+  {
+    "player": "Steewen Neugebauer",
+    "date": "2026-07-16",
+    "distance_km": 7.05,
+    "duration_min": 30.183,
+    "pace_min_km": 4.283,
+    "avg_hr": 187,
+    "location": "Unbekannt"
   }
 ]
