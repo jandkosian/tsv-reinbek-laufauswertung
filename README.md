@@ -16,8 +16,8 @@
 | Fabian Lüders | 13.07. | 7,02 km | 32:37 | 4:39 /km | Glinde |
 | Elias Timmann | 13.07. | 7,01 km | 34:09 | 4:52 /km | Börnsen |
 | Elias Timmann | 16.07. | 7,01 km | 33:23 | 4:45 /km | Börnsen |
-| Steewen Neugebauer | 13.07. | 7,10 km | 34:46 | 4:54 /km | — |
-| Steewen Neugebauer | 16.07. | 7,05 km | 30:11 | 4:17 /km | — |
+| Steewen Neugebauer | 13.07. | 7,10 km | 34:46 | 4:54 /km | Reinbek |
+| Steewen Neugebauer | 16.07. | 7,05 km | 30:11 | 4:17 /km | Reinbek |
 | Nelio Kosian | 12.07. | 7,02 km | 35:30 | 5:04 /km | Fehmarn |
 | Jonte Steudten | 13.07. | 7,02 km | 36:13 | 5:10 /km | Chia, Sardinien 🇮🇹 |
 | Lasse Schaumann | 13.07. | 7,06 km | 36:29 | 5:10 /km | Hourtin, Frankreich 🇫🇷 |
