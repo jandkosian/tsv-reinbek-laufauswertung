@@ -241,5 +241,14 @@
     "location": "Reinbek",
     "lat": 53.517,
     "lng": 10.246
+  },
+  {
+    "player": "Julian Wojtowicz",
+    "date": "2026-07-17",
+    "distance_km": 7.36,
+    "duration_min": 43.55,
+    "pace_min_km": 5.9,
+    "calories": 514,
+    "location": "Unbekannt"
   }
 ]

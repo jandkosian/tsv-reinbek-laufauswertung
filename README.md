@@ -30,6 +30,7 @@
 | Lars Poggenhorn | 13.07. | 7,16 km | 43:00 | 6:00 /km | Hamwarde |
 | John Westphal | 17.07. | 7,43 km | 42:11 | 5:40 /km | Reinbek |
 | Julian Wojtowicz | 13.07. | 5,93 km | 42:10 | 7:07 /km | — *(abgebrochen)* |
+| Julian Wojtowicz | 17.07. | 7,36 km | 43:33 | 5:54 /km | — |
 | Elias Santoro | 16.07. | 7,00 km | 38:00 | 5:25 /km | Reinbek |
 
 ---
