@@ -13,6 +13,7 @@
 | Julius Höhne | 12.07. | 7,00 km | 29:01 | 4:09 /km | Fehmarn |
 | Julius Höhne | 12.07. | 7,02 km | 29:22 | 4:11 /km | Hamburg |
 | Jonte Steudten | 15.07. | 7,01 km | 31:43 | 4:31 /km | Chia, Sardinien 🇮🇹 |
+| Julius Höhne | 17.07. | 7,00 km | 32:01 | 4:34 /km | Blekendorf |
 | Fabian Lüders | 13.07. | 7,02 km | 32:37 | 4:39 /km | Glinde |
 | Elias Timmann | 13.07. | 7,01 km | 34:09 | 4:52 /km | Börnsen |
 | Elias Timmann | 16.07. | 7,01 km | 33:23 | 4:45 /km | Börnsen |

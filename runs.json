@@ -250,5 +250,18 @@
     "pace_min_km": 5.9,
     "calories": 514,
     "location": "Unbekannt"
+  },
+  {
+    "player": "Julius Höhne",
+    "date": "2026-07-17",
+    "distance_km": 7.00,
+    "duration_min": 32.017,
+    "pace_min_km": 4.567,
+    "calories": 642,
+    "elevation_m": 73,
+    "cadence": 162,
+    "location": "Blekendorf",
+    "lat": 54.38,
+    "lng": 10.27
   }
 ]
