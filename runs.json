@@ -263,5 +263,16 @@
     "location": "Blekendorf",
     "lat": 54.38,
     "lng": 10.27
+  },
+  {
+    "player": "Nelio Kosian",
+    "date": "2026-07-17",
+    "distance_km": 7.02,
+    "duration_min": 36.25,
+    "pace_min_km": 5.164,
+    "calories": 504,
+    "location": "Fehmarn",
+    "lat": 54.49,
+    "lng": 11.05
   }
 ]
