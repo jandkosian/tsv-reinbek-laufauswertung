@@ -26,6 +26,7 @@
 | David Alimi | 15.07. | 7,04 km | 40:04 | 5:41 /km | Karlsgårde, Dänemark 🇩🇰 |
 | Elias Santoro | 13.07. | 6,99 km | 42:11 | 6:01 /km | Reinbek |
 | Mika Meyns | 13.07. | 7,01 km | 42:10 | 6:01 /km | Kirchwerder |
+| Mika Meyns | 17.07. | 7,27 km | 39:31 | 5:26 /km | Kirchwerder |
 | Lars Poggenhorn | 13.07. | 7,16 km | 43:00 | 6:00 /km | Hamwarde |
 | Julian Wojtowicz | 13.07. | 5,93 km | 42:10 | 7:07 /km | — *(abgebrochen)* |
 | Elias Santoro | 16.07. | 7,00 km | 38:00 | 5:25 /km | Reinbek |
