@@ -356,6 +356,8 @@
     "pace_min_km": 5.467,
     "calories": 676,
     "elevation_m": 234,
-    "location": "Unbekannt"
+    "location": "Finnland",
+    "lat": 64.0,
+    "lng": 26.0
   }
 ]
