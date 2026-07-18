@@ -323,5 +323,17 @@
     "location": "Börnsen",
     "lat": 53.44,
     "lng": 10.30
+  },
+  {
+    "player": "Mateja Tomovic",
+    "date": "2026-07-16",
+    "distance_km": 7.00,
+    "duration_min": 42.4,
+    "pace_min_km": 6.05,
+    "elevation_m": 38,
+    "note": "PR 5km, PR 1000m, PR 2 Meilen",
+    "location": "Reinbek",
+    "lat": 53.51,
+    "lng": 10.21
   }
 ]
