@@ -359,5 +359,16 @@
     "location": "Finnland",
     "lat": 64.0,
     "lng": 26.0
+  },
+  {
+    "player": "Jonte Steudten",
+    "date": "2026-07-18",
+    "distance_km": 7.021,
+    "duration_min": 31.417,
+    "pace_min_km": 4.475,
+    "calories": 354,
+    "location": "Chia, Sardinien",
+    "lat": 38.88,
+    "lng": 8.90
   }
 ]

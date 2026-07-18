@@ -12,6 +12,7 @@
 |---|---|---|---|---|---|
 | Julius Höhne | 12.07. | 7,00 km | 29:01 | 4:09 /km | Fehmarn |
 | Julius Höhne | 12.07. | 7,02 km | 29:22 | 4:11 /km | Hamburg |
+| Jonte Steudten | 18.07. | 7,02 km | 31:25 | 4:29 /km | Chia, Sardinien 🇮🇹 |
 | Jonte Steudten | 15.07. | 7,01 km | 31:43 | 4:31 /km | Chia, Sardinien 🇮🇹 |
 | Lasse Schaumann | 18.07. | 7,01 km | 31:14 | 4:27 /km | Hourtin, Frankreich 🇫🇷 ⚡ PR |
 | Lasse Schaumann | 16.07. | 7,02 km | 34:37 | 4:56 /km | Hourtin, Frankreich 🇫🇷 |
