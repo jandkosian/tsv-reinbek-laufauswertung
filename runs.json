@@ -287,5 +287,18 @@
     "location": "Glinde",
     "lat": 53.533,
     "lng": 10.22
+  },
+  {
+    "player": "Lasse Schaumann",
+    "date": "2026-07-18",
+    "distance_km": 7.01,
+    "duration_min": 31.233,
+    "pace_min_km": 4.45,
+    "elevation_m": 28,
+    "note": "PR 5km, PR 1000m",
+    "app": "Garmin",
+    "location": "Hourtin, Frankreich",
+    "lat": 45.18,
+    "lng": -1.06
   }
 ]
