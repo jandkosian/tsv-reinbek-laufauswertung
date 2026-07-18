@@ -300,5 +300,17 @@
     "location": "Hourtin, Frankreich",
     "lat": 45.18,
     "lng": -1.06
+  },
+  {
+    "player": "Lasse Schaumann",
+    "date": "2026-07-18",
+    "distance_km": 7.02,
+    "duration_min": 34.617,
+    "pace_min_km": 4.933,
+    "elevation_m": 32,
+    "app": "Strava",
+    "location": "Hourtin, Frankreich",
+    "lat": 45.18,
+    "lng": -1.06
   }
 ]
