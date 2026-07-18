@@ -312,5 +312,16 @@
     "location": "Hourtin, Frankreich",
     "lat": 45.18,
     "lng": -1.06
+  },
+  {
+    "player": "Elias Timmann",
+    "date": "2026-07-18",
+    "distance_km": 7.00,
+    "duration_min": 33.35,
+    "pace_min_km": 4.75,
+    "calories": 491,
+    "location": "Börnsen",
+    "lat": 53.44,
+    "lng": 10.30
   }
 ]
