@@ -30,7 +30,7 @@
 | Fabian Lüders | 15.07. | 7,01 km | 38:15 | 5:27 /km | Glinde |
 | Lars Poggenhorn | 15.07. | 7,07 km | 39:51 | 5:38 /km | Hamwarde |
 | David Alimi | 15.07. | 7,04 km | 40:04 | 5:41 /km | Karlsgårde, Dänemark 🇩🇰 |
-| Mateja Tomovic | 17.07. | 7,00 km | 40:20 | 5:46 /km | — *(selbst gemeldet)* |
+| Mateja Tomovic | 17.07. | 7,00 km | 40:20 | 5:46 /km | Reinbek *(selbst gemeldet)* |
 | Mateja Tomovic | 16.07. | 7,00 km | 42:24 | 6:03 /km | Reinbek ⚡ PR |
 | Elias Santoro | 13.07. | 6,99 km | 42:11 | 6:01 /km | Reinbek |
 | Mika Meyns | 13.07. | 7,01 km | 42:10 | 6:01 /km | Kirchwerder |

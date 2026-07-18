@@ -344,6 +344,8 @@
     "pace_min_km": 5.762,
     "app": "Gefit",
     "note": "Selbst gemeldet, kein Screenshot",
-    "location": "Unbekannt"
+    "location": "Reinbek",
+    "lat": 53.51,
+    "lng": 10.21
   }
 ]
