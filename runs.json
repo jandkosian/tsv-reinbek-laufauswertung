@@ -274,5 +274,18 @@
     "location": "Fehmarn",
     "lat": 54.49,
     "lng": 11.05
+  },
+  {
+    "player": "Fabian Lüders",
+    "date": "2026-07-18",
+    "distance_km": 7.20,
+    "duration_min": 32.917,
+    "pace_min_km": 4.567,
+    "elevation_m": 32,
+    "note": "PR 5km, PR 400m, PR Meile",
+    "app": "Garmin",
+    "location": "Glinde",
+    "lat": 53.533,
+    "lng": 10.22
   }
 ]
