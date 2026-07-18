@@ -335,5 +335,15 @@
     "location": "Reinbek",
     "lat": 53.51,
     "lng": 10.21
+  },
+  {
+    "player": "Mateja Tomovic",
+    "date": "2026-07-17",
+    "distance_km": 7.00,
+    "duration_min": 40.333,
+    "pace_min_km": 5.762,
+    "app": "Gefit",
+    "note": "Selbst gemeldet, kein Screenshot",
+    "location": "Unbekannt"
   }
 ]
