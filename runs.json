@@ -395,5 +395,17 @@
     "location": "Reinbek",
     "lat": 53.52,
     "lng": 10.24
+  },
+  {
+    "player": "Karl Schiefer",
+    "date": "2026-07-18",
+    "distance_km": 7.00,
+    "duration_min": 39.083,
+    "pace_min_km": 5.583,
+    "elevation_m": 29,
+    "app": "Strava",
+    "location": "Reinbek",
+    "lat": 53.52,
+    "lng": 10.24
   }
 ]
