@@ -407,5 +407,18 @@
     "location": "Reinbek",
     "lat": 53.52,
     "lng": 10.24
+  },
+  {
+    "player": "Arjen",
+    "date": "2026-07-19",
+    "distance_km": 14.03,
+    "duration_min": 88.4,
+    "pace_min_km": 6.567,
+    "calories": 1022,
+    "note": "Doppelte Strecke (14 km)",
+    "app": "Adidas Running",
+    "location": "Reinbek",
+    "lat": 53.52,
+    "lng": 10.24
   }
 ]
