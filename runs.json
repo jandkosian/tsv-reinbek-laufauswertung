@@ -382,5 +382,18 @@
     "location": "Hamwarde",
     "lat": 53.495,
     "lng": 10.415
+  },
+  {
+    "player": "Karl Schiefer",
+    "date": "2026-07-17",
+    "distance_km": 7.02,
+    "duration_min": 40.0,
+    "pace_min_km": 5.7,
+    "elevation_m": 30,
+    "note": "PR 5km (-1:31)",
+    "app": "Strava",
+    "location": "Reinbek",
+    "lat": 53.52,
+    "lng": 10.24
   }
 ]
