@@ -409,6 +409,16 @@
     "lng": 10.24
   },
   {
+    "player": "Karl Schiefer",
+    "date": "2026-07-20",
+    "distance_km": 7.00,
+    "duration_min": 38.9,
+    "pace_min_km": 5.533,
+    "location": "Reinbek",
+    "lat": 53.52,
+    "lng": 10.24
+  },
+  {
     "player": "Elias Santoro",
     "date": "2026-07-20",
     "distance_km": 7.02,
