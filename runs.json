@@ -338,6 +338,18 @@
   },
   {
     "player": "Mateja Tomovic",
+    "date": "2026-07-20",
+    "distance_km": 7.01,
+    "duration_min": 37.3,
+    "pace_min_km": 5.317,
+    "note": "PR 5km (-2:53)",
+    "app": "Strava",
+    "location": "Rimini, Italien",
+    "lat": 44.06,
+    "lng": 12.57
+  },
+  {
+    "player": "Mateja Tomovic",
     "date": "2026-07-17",
     "distance_km": 7.00,
     "duration_min": 40.333,
