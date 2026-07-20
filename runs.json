@@ -409,6 +409,19 @@
     "lng": 10.24
   },
   {
+    "player": "John Westphal",
+    "date": "2026-07-19",
+    "distance_km": 7.00,
+    "duration_min": 37.867,
+    "pace_min_km": 5.433,
+    "avg_hr": 186,
+    "elevation_m": 55,
+    "cadence": 150,
+    "location": "Reinbek",
+    "lat": 53.517,
+    "lng": 10.246
+  },
+  {
     "player": "Julian Wojtowicz",
     "date": "2026-07-19",
     "distance_km": 7.11,
