@@ -443,6 +443,20 @@
     "lng": 10.24
   },
   {
+    "player": "Julius Höhne",
+    "date": "2026-07-20",
+    "distance_km": 7.00,
+    "duration_min": 30.483,
+    "pace_min_km": 4.35,
+    "calories": 643,
+    "elevation_m": 21,
+    "cadence": 164,
+    "note": "Preseason",
+    "location": "Fehmarn",
+    "lat": 54.49,
+    "lng": 11.05
+  },
+  {
     "player": "Elias Santoro",
     "date": "2026-07-20",
     "distance_km": 7.02,
