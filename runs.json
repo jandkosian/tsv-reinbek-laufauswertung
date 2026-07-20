@@ -414,7 +414,9 @@
     "distance_km": 7.02,
     "duration_min": 40.133,
     "pace_min_km": 5.717,
-    "location": "Unbekannt"
+    "location": "Finnland",
+    "lat": 64.0,
+    "lng": 26.0
   },
   {
     "player": "Julius Höhne",
