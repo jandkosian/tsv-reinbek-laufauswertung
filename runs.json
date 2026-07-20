@@ -409,6 +409,17 @@
     "lng": 10.24
   },
   {
+    "player": "Julian Wojtowicz",
+    "date": "2026-07-19",
+    "distance_km": 7.11,
+    "duration_min": 45.133,
+    "pace_min_km": 6.333,
+    "calories": 494,
+    "location": "Reinbek",
+    "lat": 53.52,
+    "lng": 10.24
+  },
+  {
     "player": "Arjen",
     "date": "2026-07-17",
     "distance_km": 14.03,

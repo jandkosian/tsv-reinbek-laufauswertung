@@ -44,6 +44,7 @@
 | Karl Schiefer | 17.07. | 7,02 km | 40:00 | 5:42 /km | Reinbek ⚡ PR |
 | Arjen | 17.07. | **14,03 km** | 1:28:24 | 6:34 /km | Reinbek *(doppelte Strecke!)* |
 | Julian Wojtowicz | 13.07. | 5,93 km | 42:10 | 7:07 /km | — *(abgebrochen)* |
+| Julian Wojtowicz | 19.07. | 7,11 km | 45:08 | 6:20 /km | Reinbek |
 | Julian Wojtowicz | 17.07. | 7,36 km | 43:33 | 5:54 /km | — |
 | Elias Santoro | 16.07. | 7,00 km | 38:00 | 5:25 /km | Reinbek |
 
