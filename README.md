@@ -16,6 +16,7 @@
 | Jonte Steudten | 15.07. | 7,01 km | 31:43 | 4:31 /km | Chia, Sardinien 🇮🇹 |
 | Lasse Schaumann | 18.07. | 7,01 km | 31:14 | 4:27 /km | Hourtin, Frankreich 🇫🇷 ⚡ PR |
 | Lasse Schaumann | 16.07. | 7,02 km | 34:37 | 4:56 /km | Hourtin, Frankreich 🇫🇷 |
+| Julius Höhne | 14.07. | 8,01 km | 38:33 | 4:49 /km | Nessendorf |
 | Julius Höhne | 17.07. | 7,00 km | 32:01 | 4:34 /km | Blekendorf |
 | Fabian Lüders | 18.07. | 7,20 km | 32:55 | 4:34 /km | Glinde ⚡ PR |
 | Fabian Lüders | 13.07. | 7,02 km | 32:37 | 4:39 /km | Glinde |
