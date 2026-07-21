@@ -480,6 +480,18 @@
     "lng": 10.38
   },
   {
+    "player": "Lasse Schaumann",
+    "date": "2026-07-21",
+    "distance_km": 7.04,
+    "duration_min": 32.65,
+    "pace_min_km": 4.633,
+    "elevation_m": 33,
+    "app": "Garmin",
+    "location": "Hourtin, Frankreich",
+    "lat": 45.18,
+    "lng": -1.06
+  },
+  {
     "player": "Elias Timmann",
     "date": "2026-07-21",
     "distance_km": 7.02,
