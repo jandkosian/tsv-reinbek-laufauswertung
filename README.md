@@ -27,6 +27,7 @@
 | Emin | 21.07. | 7,02 km | 36:42 | 5:13 /km | Reinbek |
 | John Westphal | 21.07. | 7,03 km | 34:08 | 4:51 /km | Reinbek |
 | Elias Timmann | 16.07. | 7,01 km | 33:23 | 4:45 /km | Börnsen |
+| Elias Timmann | 21.07. | 7,02 km | 33:10 | 4:43 /km | Börnsen |
 | Elias Timmann | 18.07. | 7,00 km | 33:21 | 4:45 /km | Börnsen |
 | Steewen Neugebauer | 13.07. | 7,10 km | 34:46 | 4:54 /km | Reinbek |
 | Steewen Neugebauer | 16.07. | 7,05 km | 30:11 | 4:17 /km | Reinbek |
