@@ -480,6 +480,24 @@
     "lng": 10.38
   },
   {
+    "player": "Kjell",
+    "date": "2026-07-21",
+    "distance_km": 7.02,
+    "duration_min": 36.7,
+    "pace_min_km": 5.217,
+    "app": "Adidas Running",
+    "location": "Unbekannt"
+  },
+  {
+    "player": "Emin",
+    "date": "2026-07-21",
+    "distance_km": 7.02,
+    "duration_min": 36.7,
+    "pace_min_km": 5.217,
+    "app": "Adidas Running",
+    "location": "Unbekannt"
+  },
+  {
     "player": "John Westphal",
     "date": "2026-07-21",
     "distance_km": 7.03,
