@@ -480,6 +480,16 @@
     "lng": 10.38
   },
   {
+    "player": "Mika Meyns",
+    "date": "2026-07-21",
+    "distance_km": 7.00,
+    "duration_min": 38.833,
+    "pace_min_km": 5.55,
+    "calories": 405,
+    "note": "Laufband (TechnoGym)",
+    "location": "Unbekannt"
+  },
+  {
     "player": "Kjell",
     "date": "2026-07-21",
     "distance_km": 7.02,
