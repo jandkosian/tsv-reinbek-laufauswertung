@@ -486,7 +486,9 @@
     "duration_min": 36.7,
     "pace_min_km": 5.217,
     "app": "Adidas Running",
-    "location": "Unbekannt"
+    "location": "Reinbek",
+    "lat": 53.52,
+    "lng": 10.24
   },
   {
     "player": "Emin",
@@ -495,7 +497,9 @@
     "duration_min": 36.7,
     "pace_min_km": 5.217,
     "app": "Adidas Running",
-    "location": "Unbekannt"
+    "location": "Reinbek",
+    "lat": 53.52,
+    "lng": 10.24
   },
   {
     "player": "John Westphal",
