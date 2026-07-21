@@ -480,6 +480,20 @@
     "lng": 10.38
   },
   {
+    "player": "Julius Höhne",
+    "date": "2026-07-21",
+    "distance_km": 7.01,
+    "duration_min": 32.483,
+    "pace_min_km": 4.633,
+    "calories": 640,
+    "elevation_m": 42,
+    "cadence": 157,
+    "note": "Preseason",
+    "location": "Fehmarn",
+    "lat": 54.43,
+    "lng": 11.10
+  },
+  {
     "player": "Nelio Kosian",
     "date": "2026-07-21",
     "distance_km": 7.00,
