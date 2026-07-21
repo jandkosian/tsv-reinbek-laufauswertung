@@ -22,6 +22,7 @@
 | Fabian Lüders | 18.07. | 7,20 km | 32:55 | 4:34 /km | Glinde ⚡ PR |
 | Fabian Lüders | 13.07. | 7,02 km | 32:37 | 4:39 /km | Glinde |
 | Elias Timmann | 13.07. | 7,01 km | 34:09 | 4:52 /km | Börnsen |
+| John Westphal | 21.07. | 7,03 km | 34:08 | 4:51 /km | Reinbek |
 | Elias Timmann | 16.07. | 7,01 km | 33:23 | 4:45 /km | Börnsen |
 | Elias Timmann | 18.07. | 7,00 km | 33:21 | 4:45 /km | Börnsen |
 | Steewen Neugebauer | 13.07. | 7,10 km | 34:46 | 4:54 /km | Reinbek |
