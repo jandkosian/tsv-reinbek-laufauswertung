@@ -54,6 +54,7 @@
 | Lars Poggenhorn | 13.07. | 7,16 km | 43:00 | 6:00 /km | Hamwarde |
 | John Westphal | 19.07. | 7,00 km | 37:52 | 5:26 /km | Reinbek |
 | John Westphal | 17.07. | 7,43 km | 42:11 | 5:40 /km | Reinbek |
+| Karl Schiefer | 21.07. | 7,02 km | 39:01 | 5:33 /km | Reinbek ⚡ PR |
 | Karl Schiefer | 20.07. | 7,00 km | 38:54 | 5:32 /km | Reinbek |
 | Karl Schiefer | 18.07. | 7,00 km | 39:05 | 5:35 /km | Reinbek |
 | Karl Schiefer | 17.07. | 7,02 km | 40:00 | 5:42 /km | Reinbek ⚡ PR |

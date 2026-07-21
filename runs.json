@@ -480,6 +480,19 @@
     "lng": 10.38
   },
   {
+    "player": "Karl Schiefer",
+    "date": "2026-07-21",
+    "distance_km": 7.02,
+    "duration_min": 39.017,
+    "pace_min_km": 5.55,
+    "elevation_m": 26,
+    "note": "PR 400m, PR 1000m",
+    "app": "Strava",
+    "location": "Reinbek",
+    "lat": 53.52,
+    "lng": 10.24
+  },
+  {
     "player": "Julius Höhne",
     "date": "2026-07-21",
     "distance_km": 7.01,
