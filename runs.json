@@ -480,6 +480,17 @@
     "lng": 10.38
   },
   {
+    "player": "Nelio Kosian",
+    "date": "2026-07-21",
+    "distance_km": 7.00,
+    "duration_min": 32.717,
+    "pace_min_km": 4.674,
+    "calories": 346,
+    "location": "Fehmarn",
+    "lat": 54.49,
+    "lng": 11.05
+  },
+  {
     "player": "Lasse Schaumann",
     "date": "2026-07-21",
     "distance_km": 7.04,
