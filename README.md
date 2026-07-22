@@ -39,6 +39,7 @@
 | Nelio Kosian | 17.07. | 7,02 km | 36:15 | 5:10 /km | Fehmarn |
 | Lasse Schaumann | 13.07. | 7,06 km | 36:29 | 5:10 /km | Hourtin, Frankreich 🇫🇷 |
 | Fabian Lüders | 15.07. | 7,01 km | 38:15 | 5:27 /km | Glinde |
+| Lars Poggenhorn | 22.07. | 7,01 km | 38:34 | 5:30 /km | Hamwarde |
 | Lars Poggenhorn | 20.07. | 7,04 km | 37:31 | 5:19 /km | Hamwarde |
 | Lars Poggenhorn | 18.07. | 7,01 km | 38:52 | 5:32 /km | Hamwarde |
 | Lars Poggenhorn | 15.07. | 7,07 km | 39:51 | 5:38 /km | Hamwarde |
