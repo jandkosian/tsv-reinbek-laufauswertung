@@ -48,7 +48,7 @@
 | Mateja Tomovic | 16.07. | 7,00 km | 42:24 | 6:03 /km | Reinbek ⚡ PR |
 | Elias Santoro | 13.07. | 6,99 km | 42:11 | 6:01 /km | Reinbek |
 | Mika Meyns | 13.07. | 7,01 km | 42:10 | 6:01 /km | Kirchwerder |
-| Elias Santoro | 22.07. | 7,00 km | 37:30 | 5:21 /km | — |
+| Elias Santoro | 22.07. | 7,00 km | 37:30 | 5:21 /km | Finnland 🇫🇮 |
 | Elias Santoro | 20.07. | 7,02 km | 40:08 | 5:43 /km | Finnland 🇫🇮 |
 | Elias Santoro | 18.07. | 7,01 km | 38:22 | 5:28 /km | Finnland 🇫🇮 *(234 Hm!)* |
 | Mika Meyns | 17.07. | 7,27 km | 39:31 | 5:26 /km | Kirchwerder |
