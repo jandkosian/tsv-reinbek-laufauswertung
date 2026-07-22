@@ -480,6 +480,14 @@
     "lng": 10.38
   },
   {
+    "player": "Elias Santoro",
+    "date": "2026-07-22",
+    "distance_km": 7.00,
+    "duration_min": 37.5,
+    "pace_min_km": 5.35,
+    "location": "Unbekannt"
+  },
+  {
     "player": "Karl Schiefer",
     "date": "2026-07-21",
     "distance_km": 7.02,
