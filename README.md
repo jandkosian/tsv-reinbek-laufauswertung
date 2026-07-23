@@ -27,6 +27,7 @@
 | Fabian Lüders | 13.07. | 7,02 km | 32:37 | 4:39 /km | Glinde |
 | Elias Timmann | 13.07. | 7,01 km | 34:09 | 4:52 /km | Börnsen |
 | Mika Meyns | 21.07. | 7,00 km | 38:50 | 5:33 /km | — *(Laufband)* |
+| Mateja Tomovic | 21.07. | 7,00 km | 39:40 | 5:40 /km | — *(Laufband)* |
 | Kjell | 21.07. | 7,02 km | 36:42 | 5:13 /km | Reinbek |
 | Emin | 21.07. | 7,02 km | 36:42 | 5:13 /km | Reinbek |
 | John Westphal | 23.07. | 7,40 km | 36:34 | 4:56 /km | Reinbek |
