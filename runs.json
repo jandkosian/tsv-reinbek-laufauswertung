@@ -712,5 +712,16 @@
     "pace_min_km": 5.667,
     "note": "Laufband",
     "location": "Unbekannt"
+  },
+  {
+    "player": "Julian Wojtowicz",
+    "date": "2026-07-23",
+    "distance_km": 7.31,
+    "duration_min": 45.85,
+    "pace_min_km": 6.272,
+    "calories": 525,
+    "location": "Reinbek",
+    "lat": 53.52,
+    "lng": 10.24
   }
 ]
