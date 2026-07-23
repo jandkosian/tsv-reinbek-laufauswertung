@@ -723,5 +723,40 @@
     "location": "Reinbek",
     "lat": 53.52,
     "lng": 10.24
+  },
+  {
+    "player": "Elias Teege",
+    "date": "2026-07-23",
+    "distance_km": 7.54,
+    "duration_min": 48.05,
+    "pace_min_km": 6.367,
+    "calories": 335,
+    "avg_hr": 162,
+    "cadence": 138,
+    "location": "Unbekannt"
+  },
+  {
+    "player": "Kjell",
+    "date": "2026-07-23",
+    "distance_km": 7.01,
+    "duration_min": 33.183,
+    "pace_min_km": 4.733,
+    "app": "Adidas Running",
+    "location": "Reinbek",
+    "lat": 53.52,
+    "lng": 10.24
+  },
+  {
+    "player": "Elias Timmann",
+    "date": "2026-07-23",
+    "distance_km": 7.01,
+    "duration_min": 32.317,
+    "pace_min_km": 4.6,
+    "calories": 486,
+    "elevation_m": 42,
+    "note": "PR",
+    "location": "Börnsen",
+    "lat": 53.44,
+    "lng": 10.30
   }
 ]

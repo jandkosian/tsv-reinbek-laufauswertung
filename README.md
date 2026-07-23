@@ -24,6 +24,7 @@
 | Julius Höhne | 14.07. | 8,01 km | 38:33 | 4:49 /km | Nessendorf |
 | Julius Höhne | 17.07. | 7,00 km | 32:01 | 4:34 /km | Blekendorf |
 | Fabian Lüders | 18.07. | 7,20 km | 32:55 | 4:34 /km | Glinde ⚡ PR |
+| Elias Timmann | 23.07. | 7,01 km | 32:19 | 4:36 /km | Börnsen ⚡ PR |
 | Fabian Lüders | 13.07. | 7,02 km | 32:37 | 4:39 /km | Glinde |
 | Elias Timmann | 13.07. | 7,01 km | 34:09 | 4:52 /km | Börnsen |
 | Mika Meyns | 21.07. | 7,00 km | 38:50 | 5:33 /km | — *(Laufband)* |
@@ -34,6 +35,7 @@
 | John Westphal | 21.07. | 7,03 km | 34:08 | 4:51 /km | Reinbek |
 | Elias Timmann | 16.07. | 7,01 km | 33:23 | 4:45 /km | Börnsen |
 | Elias Timmann | 21.07. | 7,02 km | 33:10 | 4:43 /km | Börnsen |
+| Kjell | 23.07. | 7,01 km | 33:11 | 4:44 /km | Reinbek |
 | Elias Timmann | 18.07. | 7,00 km | 33:21 | 4:45 /km | Börnsen |
 | Steewen Neugebauer | 13.07. | 7,10 km | 34:46 | 4:54 /km | Reinbek |
 | Steewen Neugebauer | 16.07. | 7,05 km | 30:11 | 4:17 /km | Reinbek |
@@ -70,6 +72,7 @@
 | Julian Wojtowicz | 13.07. | 5,93 km | 42:10 | 7:07 /km | — *(abgebrochen)* |
 | Julian Wojtowicz | 23.07. | 7,31 km | 45:51 | 6:16 /km | Reinbek |
 | Julian Wojtowicz | 19.07. | 7,11 km | 45:08 | 6:20 /km | Reinbek |
+| Elias Teege | 23.07. | 7,54 km | 48:03 | 6:22 /km | — |
 | Julian Wojtowicz | 17.07. | 7,36 km | 43:33 | 5:54 /km | — |
 | Elias Santoro | 16.07. | 7,00 km | 38:00 | 5:25 /km | Reinbek |
 
