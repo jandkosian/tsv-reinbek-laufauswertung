@@ -11,6 +11,7 @@
 | Spieler | Datum | Distanz | Zeit | Pace | Ort |
 |---|---|---|---|---|---|
 | Julius Höhne | 12.07. | 7,00 km | 29:01 | 4:09 /km | Fehmarn |
+| Julius Höhne | 23.07. | 7,00 km | 29:45 | 4:15 /km | Fehmarn *(Preseason)* |
 | Julius Höhne | 12.07. | 7,02 km | 29:22 | 4:11 /km | Hamburg |
 | Jonte Steudten | 18.07. | 7,02 km | 31:25 | 4:29 /km | Chia, Sardinien 🇮🇹 |
 | Jonte Steudten | 15.07. | 7,01 km | 31:43 | 4:31 /km | Chia, Sardinien 🇮🇹 |

@@ -480,6 +480,20 @@
     "lng": 10.38
   },
   {
+    "player": "Julius Höhne",
+    "date": "2026-07-23",
+    "distance_km": 7.00,
+    "duration_min": 29.75,
+    "pace_min_km": 4.25,
+    "calories": 646,
+    "elevation_m": 39,
+    "cadence": 167,
+    "note": "Preseason",
+    "location": "Fehmarn",
+    "lat": 54.43,
+    "lng": 11.10
+  },
+  {
     "player": "Lars Poggenhorn",
     "date": "2026-07-22",
     "distance_km": 7.01,
