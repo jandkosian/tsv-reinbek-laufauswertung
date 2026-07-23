@@ -29,6 +29,7 @@
 | Mika Meyns | 21.07. | 7,00 km | 38:50 | 5:33 /km | — *(Laufband)* |
 | Kjell | 21.07. | 7,02 km | 36:42 | 5:13 /km | Reinbek |
 | Emin | 21.07. | 7,02 km | 36:42 | 5:13 /km | Reinbek |
+| John Westphal | 23.07. | 7,40 km | 36:34 | 4:56 /km | Reinbek |
 | John Westphal | 21.07. | 7,03 km | 34:08 | 4:51 /km | Reinbek |
 | Elias Timmann | 16.07. | 7,01 km | 33:23 | 4:45 /km | Börnsen |
 | Elias Timmann | 21.07. | 7,02 km | 33:10 | 4:43 /km | Börnsen |

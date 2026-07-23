@@ -480,6 +480,19 @@
     "lng": 10.38
   },
   {
+    "player": "John Westphal",
+    "date": "2026-07-23",
+    "distance_km": 7.40,
+    "duration_min": 36.567,
+    "pace_min_km": 4.933,
+    "avg_hr": 168,
+    "elevation_m": 31,
+    "cadence": 148,
+    "location": "Reinbek",
+    "lat": 53.517,
+    "lng": 10.246
+  },
+  {
     "player": "Jonte Steudten",
     "date": "2026-07-23",
     "distance_km": 7.013,
