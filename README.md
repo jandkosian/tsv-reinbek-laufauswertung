@@ -38,6 +38,7 @@
 | Steewen Neugebauer | 16.07. | 7,05 km | 30:11 | 4:17 /km | Reinbek |
 | Nelio Kosian | 12.07. | 7,02 km | 35:30 | 5:04 /km | Fehmarn |
 | Jonte Steudten | 13.07. | 7,02 km | 36:13 | 5:10 /km | Chia, Sardinien 🇮🇹 |
+| Nelio Kosian | 23.07. | 7,00 km | 32:26 | 4:38 /km | Fehmarn |
 | Nelio Kosian | 21.07. | 7,00 km | 32:43 | 4:40 /km | Fehmarn |
 | Nelio Kosian | 17.07. | 7,02 km | 36:15 | 5:10 /km | Fehmarn |
 | Lasse Schaumann | 13.07. | 7,06 km | 36:29 | 5:10 /km | Hourtin, Frankreich 🇫🇷 |
