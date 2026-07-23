@@ -480,6 +480,17 @@
     "lng": 10.38
   },
   {
+    "player": "Mateja Tomovic",
+    "date": "2026-07-22",
+    "distance_km": 7.01,
+    "duration_min": 39.083,
+    "pace_min_km": 5.567,
+    "app": "Strava",
+    "location": "Rimini, Italien",
+    "lat": 44.06,
+    "lng": 12.57
+  },
+  {
     "player": "John Westphal",
     "date": "2026-07-23",
     "distance_km": 7.40,
