@@ -783,5 +783,19 @@
     "cadence": 164,
     "elevation_m": 4,
     "location": "Unbekannt"
+  },
+  {
+    "player": "Julius Höhne",
+    "date": "2026-07-24",
+    "distance_km": 7.00,
+    "duration_min": 30.35,
+    "pace_min_km": 4.333,
+    "calories": 644,
+    "elevation_m": 48,
+    "cadence": 165,
+    "note": "Preseason",
+    "location": "Hamburg",
+    "lat": 53.55,
+    "lng": 10.00
   }
 ]

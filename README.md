@@ -13,6 +13,7 @@
 | Julius Höhne | 12.07. | 7,00 km | 29:01 | 4:09 /km | Fehmarn |
 | Julius Höhne | 23.07. | 7,00 km | 29:45 | 4:15 /km | Fehmarn *(Preseason)* |
 | Julius Höhne | 12.07. | 7,02 km | 29:22 | 4:11 /km | Hamburg |
+| Julius Höhne | 24.07. | 7,00 km | 30:21 | 4:20 /km | Hamburg *(Preseason)* |
 | Jonte Steudten | 23.07. | 7,01 km | 30:29 | 4:21 /km | Müllrose |
 | Elias Teege | 24.07. | 7,04 km | 31:03 | 4:25 /km | — |
 | Jonte Steudten | 18.07. | 7,02 km | 31:25 | 4:29 /km | Chia, Sardinien 🇮🇹 |
