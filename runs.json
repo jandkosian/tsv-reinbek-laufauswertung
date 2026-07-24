@@ -771,5 +771,17 @@
     "location": "Finnland",
     "lat": 64.0,
     "lng": 26.0
+  },
+  {
+    "player": "Elias Teege",
+    "date": "2026-07-24",
+    "distance_km": 7.04,
+    "duration_min": 31.05,
+    "pace_min_km": 4.417,
+    "calories": 256,
+    "avg_hr": 181,
+    "cadence": 164,
+    "elevation_m": 4,
+    "location": "Unbekannt"
   }
 ]
