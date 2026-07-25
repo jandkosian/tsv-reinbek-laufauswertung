@@ -39,6 +39,7 @@
 | John Westphal | 23.07. | 7,40 km | 36:34 | 4:56 /km | Reinbek |
 | John Westphal | 21.07. | 7,03 km | 34:08 | 4:51 /km | Reinbek |
 | Elias Timmann | 16.07. | 7,01 km | 33:23 | 4:45 /km | Börnsen |
+| Elias Timmann | 25.07. | 8,14 km | 38:12 | 4:41 /km | Börnsen |
 | Elias Timmann | 21.07. | 7,02 km | 33:10 | 4:43 /km | Börnsen |
 | Kjell | 23.07. | 7,01 km | 33:11 | 4:44 /km | Reinbek |
 | Elias Timmann | 18.07. | 7,00 km | 33:21 | 4:45 /km | Börnsen |
