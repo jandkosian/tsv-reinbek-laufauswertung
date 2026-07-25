@@ -808,5 +808,17 @@
     "location": "Müllrose",
     "lat": 52.26,
     "lng": 14.07
+  },
+  {
+    "player": "Lasse Schaumann",
+    "date": "2026-07-25",
+    "distance_km": 7.04,
+    "duration_min": 33.7,
+    "pace_min_km": 4.783,
+    "elevation_m": 5,
+    "app": "Strava",
+    "location": "Bergedorf, Hamburg",
+    "lat": 53.49,
+    "lng": 10.20
   }
 ]
