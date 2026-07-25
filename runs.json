@@ -820,5 +820,16 @@
     "location": "Bergedorf, Hamburg",
     "lat": 53.49,
     "lng": 10.20
+  },
+  {
+    "player": "Emin",
+    "date": "2026-07-25",
+    "distance_km": 8.04,
+    "duration_min": 36.95,
+    "pace_min_km": 4.583,
+    "app": "Adidas Running",
+    "location": "Reinbek",
+    "lat": 53.52,
+    "lng": 10.24
   }
 ]

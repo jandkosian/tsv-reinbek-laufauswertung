@@ -28,6 +28,7 @@
 | Julius Höhne | 14.07. | 8,01 km | 38:33 | 4:49 /km | Nessendorf |
 | Julius Höhne | 17.07. | 7,00 km | 32:01 | 4:34 /km | Blekendorf |
 | Fabian Lüders | 18.07. | 7,20 km | 32:55 | 4:34 /km | Glinde ⚡ PR |
+| Emin | 25.07. | 8,04 km | 36:57 | 4:35 /km | Reinbek |
 | Elias Timmann | 23.07. | 7,01 km | 32:19 | 4:36 /km | Börnsen ⚡ PR |
 | Fabian Lüders | 13.07. | 7,02 km | 32:37 | 4:39 /km | Glinde |
 | Elias Timmann | 13.07. | 7,01 km | 34:09 | 4:52 /km | Börnsen |
