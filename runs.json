@@ -843,5 +843,17 @@
     "location": "Börnsen",
     "lat": 53.44,
     "lng": 10.30
+  },
+  {
+    "player": "Fabian Lüders",
+    "date": "2026-07-25",
+    "distance_km": 7.04,
+    "duration_min": 36.133,
+    "pace_min_km": 5.133,
+    "elevation_m": 6,
+    "app": "Strava",
+    "location": "Wendtorf, Schleswig-Holstein",
+    "lat": 54.38,
+    "lng": 10.15
   }
 ]
