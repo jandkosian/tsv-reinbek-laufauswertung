@@ -797,5 +797,16 @@
     "location": "Hamburg",
     "lat": 53.55,
     "lng": 10.00
+  },
+  {
+    "player": "Jonte Steudten",
+    "date": "2026-07-25",
+    "distance_km": 7.012,
+    "duration_min": 31.383,
+    "pace_min_km": 4.476,
+    "calories": 354,
+    "location": "Müllrose",
+    "lat": 52.26,
+    "lng": 14.07
   }
 ]
