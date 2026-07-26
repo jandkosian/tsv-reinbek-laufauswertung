@@ -903,5 +903,17 @@
     "location": "Reinbek",
     "lat": 53.52,
     "lng": 10.24
+  },
+  {
+    "player": "Lasse Schaumann",
+    "date": "2026-07-26",
+    "distance_km": 7.03,
+    "duration_min": 31.933,
+    "pace_min_km": 4.533,
+    "elevation_m": 9,
+    "app": "Strava",
+    "location": "Bergedorf, Hamburg",
+    "lat": 53.49,
+    "lng": 10.20
   }
 ]
