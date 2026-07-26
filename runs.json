@@ -915,5 +915,16 @@
     "location": "Bergedorf, Hamburg",
     "lat": 53.49,
     "lng": 10.20
+  },
+  {
+    "player": "Julian Wojtowicz",
+    "date": "2026-07-26",
+    "distance_km": 8.53,
+    "duration_min": 55.45,
+    "pace_min_km": 6.502,
+    "calories": 621,
+    "location": "Reinbek",
+    "lat": 53.52,
+    "lng": 10.24
   }
 ]
