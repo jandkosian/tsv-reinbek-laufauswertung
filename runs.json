@@ -868,5 +868,16 @@
     "location": "Vias, Frankreich",
     "lat": 43.31,
     "lng": 3.42
+  },
+  {
+    "player": "Jonte Steudten",
+    "date": "2026-07-26",
+    "distance_km": 7.016,
+    "duration_min": 31.217,
+    "pace_min_km": 4.45,
+    "calories": 352,
+    "location": "Müllrose",
+    "lat": 52.26,
+    "lng": 14.07
   }
 ]
