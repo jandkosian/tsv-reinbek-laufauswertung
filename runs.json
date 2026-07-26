@@ -879,5 +879,17 @@
     "location": "Müllrose",
     "lat": 52.26,
     "lng": 14.07
+  },
+  {
+    "player": "Joshua Anani",
+    "date": "2026-07-22",
+    "distance_km": 12.61,
+    "duration_min": 67.25,
+    "pace_min_km": 5.333,
+    "note": "2nd fastest 10km ever",
+    "app": "Strava",
+    "location": "Reinbek",
+    "lat": 53.52,
+    "lng": 10.24
   }
 ]
