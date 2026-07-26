@@ -891,5 +891,17 @@
     "location": "Reinbek",
     "lat": 53.52,
     "lng": 10.24
+  },
+  {
+    "player": "Joshua Anani",
+    "date": "2026-07-25",
+    "distance_km": 12.08,
+    "duration_min": 61.6,
+    "pace_min_km": 5.1,
+    "note": "2nd fastest 10km ever (-2:20)",
+    "app": "Strava",
+    "location": "Reinbek",
+    "lat": 53.52,
+    "lng": 10.24
   }
 ]

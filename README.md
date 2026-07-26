@@ -54,6 +54,7 @@
 | Nelio Kosian | 21.07. | 7,00 km | 32:43 | 4:40 /km | Fehmarn |
 | Nelio Kosian | 17.07. | 7,02 km | 36:15 | 5:10 /km | Fehmarn |
 | Lasse Schaumann | 13.07. | 7,06 km | 36:29 | 5:10 /km | Hourtin, Frankreich 🇫🇷 |
+| Joshua Anani | 25.07. | **12,08 km** | 1:01:36 | 5:06 /km | Reinbek *(lange Distanz!)* |
 | Joshua Anani | 22.07. | **12,61 km** | 1:07:15 | 5:20 /km | Reinbek *(lange Distanz!)* |
 | Elias Santoro | 24.07. | 7,00 km | 36:42 | 5:14 /km | Finnland 🇫🇮 ⚡ PR |
 | Fabian Lüders | 15.07. | 7,01 km | 38:15 | 5:27 /km | Glinde |
