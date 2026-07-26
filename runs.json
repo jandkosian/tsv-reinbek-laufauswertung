@@ -926,5 +926,18 @@
     "location": "Reinbek",
     "lat": 53.52,
     "lng": 10.24
+  },
+  {
+    "player": "Mateja Tomovic",
+    "date": "2026-07-25",
+    "distance_km": 7.00,
+    "duration_min": 38.117,
+    "pace_min_km": 5.45,
+    "elevation_m": 0,
+    "note": "PR 2 Meilen",
+    "app": "Strava",
+    "location": "Rimini, Italien",
+    "lat": 44.06,
+    "lng": 12.57
   }
 ]
