@@ -939,5 +939,17 @@
     "location": "Rimini, Italien",
     "lat": 44.06,
     "lng": 12.57
+  },
+  {
+    "player": "Arjen",
+    "date": "2026-07-26",
+    "distance_km": 7.05,
+    "duration_min": 42.867,
+    "pace_min_km": 6.067,
+    "calories": 511,
+    "app": "Adidas Running",
+    "location": "Reinbek",
+    "lat": 53.52,
+    "lng": 10.24
   }
 ]
