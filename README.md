@@ -59,6 +59,7 @@
 | Lasse Schaumann | 13.07. | 7,06 km | 36:29 | 5:10 /km | Hourtin, Frankreich 🇫🇷 |
 | Joshua Anani | 25.07. | **12,08 km** | 1:01:36 | 5:06 /km | Reinbek *(lange Distanz!)* |
 | Joshua Anani | 22.07. | **12,61 km** | 1:07:15 | 5:20 /km | Reinbek *(lange Distanz!)* |
+| Mateja Tomovic | 27.07. | 7,00 km | 36:39 | 5:14 /km | Rimini, Italien 🇮🇹 ⚡ PR |
 | Elias Santoro | 24.07. | 7,00 km | 36:42 | 5:14 /km | Finnland 🇫🇮 ⚡ PR |
 | Mateja Tomovic | 25.07. | 7,00 km | 38:07 | 5:27 /km | Rimini, Italien 🇮🇹 ⚡ PR |
 | Fabian Lüders | 15.07. | 7,01 km | 38:15 | 5:27 /km | Glinde |
