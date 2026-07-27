@@ -86,6 +86,7 @@
 | Karl Schiefer | 17.07. | 7,02 km | 40:00 | 5:42 /km | Reinbek ⚡ PR |
 | Arjen | 26.07. | 7,05 km | 42:52 | 6:04 /km | Reinbek |
 | Arjen | 25.07. | 7,05 km | 43:00 | 6:10 /km | Reinbek |
+| Kjell | 27.07. | **15,10 km** | 1:26:04 | 5:42 /km | Neuschönningstedt *(doppelte Strecke!)* |
 | Arjen | 17.07. | **14,03 km** | 1:28:24 | 6:34 /km | Reinbek *(doppelte Strecke!)* |
 | Julian Wojtowicz | 13.07. | 5,93 km | 42:10 | 7:07 /km | — *(abgebrochen)* |
 | Julian Wojtowicz | 26.07. | 8,53 km | 55:27 | 6:30 /km | Reinbek |
