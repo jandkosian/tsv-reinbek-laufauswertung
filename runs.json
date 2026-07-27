@@ -951,5 +951,17 @@
     "location": "Reinbek",
     "lat": 53.52,
     "lng": 10.24
+  },
+  {
+    "player": "Arjen",
+    "date": "2026-07-25",
+    "distance_km": 7.05,
+    "duration_min": 43.0,
+    "pace_min_km": 6.167,
+    "calories": 522,
+    "app": "Adidas Running",
+    "location": "Reinbek",
+    "lat": 53.52,
+    "lng": 10.24
   }
 ]
