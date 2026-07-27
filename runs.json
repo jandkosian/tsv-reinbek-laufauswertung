@@ -973,5 +973,15 @@
     "calories": 405,
     "note": "Laufband (TechnoGym)",
     "location": "Unbekannt"
+  },
+  {
+    "player": "Nelio Kosian",
+    "date": "2026-07-26",
+    "distance_km": 7.01,
+    "duration_min": 35.517,
+    "pace_min_km": 5.05,
+    "location": "Reinbek",
+    "lat": 53.52,
+    "lng": 10.24
   }
 ]
