@@ -1021,5 +1021,18 @@
     "location": "Wendtorf, Schleswig-Holstein",
     "lat": 54.38,
     "lng": 10.15
+  },
+  {
+    "player": "Karl Schiefer",
+    "date": "2026-07-27",
+    "distance_km": 7.18,
+    "duration_min": 36.25,
+    "pace_min_km": 5.05,
+    "elevation_m": 2,
+    "note": "PR Fastest 5K ever (-18s), PR Meile, PR 2 Meilen",
+    "app": "Strava",
+    "location": "Vias, Frankreich",
+    "lat": 43.31,
+    "lng": 3.42
   }
 ]

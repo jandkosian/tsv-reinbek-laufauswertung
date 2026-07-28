@@ -50,6 +50,7 @@
 | Steewen Neugebauer | 16.07. | 7,05 km | 30:11 | 4:17 /km | Reinbek |
 | Nelio Kosian | 26.07. | 7,01 km | 35:31 | 5:03 /km | Reinbek |
 | Nelio Kosian | 12.07. | 7,02 km | 35:30 | 5:04 /km | Fehmarn |
+| Karl Schiefer | 27.07. | 7,18 km | 36:15 | 5:03 /km | Vias, Frankreich 🇫🇷 ⚡ PR |
 | Karl Schiefer | 25.07. | 7,00 km | 35:48 | 5:07 /km | Vias, Frankreich 🇫🇷 ⚡ PR |
 | Fabian Lüders | 27.07. | 8,00 km | 41:32 | 5:11 /km | Wendtorf, Schleswig-Holstein |
 | Fabian Lüders | 25.07. | 7,04 km | 36:08 | 5:08 /km | Wendtorf, Schleswig-Holstein |
