@@ -1046,5 +1046,18 @@
     "location": "Bergedorf, Hamburg",
     "lat": 53.49,
     "lng": 10.20
+  },
+  {
+    "player": "Elias Santoro",
+    "date": "2026-07-28",
+    "distance_km": 7.00,
+    "duration_min": 36.15,
+    "pace_min_km": 5.167,
+    "elevation_m": 21,
+    "note": "PR Fastest 5K ever (-27s)",
+    "app": "Strava",
+    "location": "Finnland",
+    "lat": 64.0,
+    "lng": 26.0
   }
 ]
