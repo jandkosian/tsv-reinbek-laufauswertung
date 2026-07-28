@@ -1059,5 +1059,19 @@
     "location": "Finnland",
     "lat": 64.0,
     "lng": 26.0
+  },
+  {
+    "player": "Julius Höhne",
+    "date": "2026-07-28",
+    "distance_km": 7.00,
+    "duration_min": 31.617,
+    "pace_min_km": 4.517,
+    "calories": 634,
+    "elevation_m": 62,
+    "cadence": 168,
+    "note": "Preseason",
+    "location": "Hamburg",
+    "lat": 53.55,
+    "lng": 10.00
   }
 ]

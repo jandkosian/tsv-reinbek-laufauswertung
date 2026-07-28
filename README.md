@@ -16,6 +16,7 @@
 | Julius Höhne | 24.07. | 7,00 km | 30:21 | 4:20 /km | Hamburg *(Preseason)* |
 | Jonte Steudten | 23.07. | 7,01 km | 30:29 | 4:21 /km | Müllrose |
 | Elias Teege | 24.07. | 7,04 km | 31:03 | 4:25 /km | — |
+| Julius Höhne | 28.07. | 7,00 km | 31:37 | 4:31 /km | Hamburg *(Preseason)* |
 | Jonte Steudten | 26.07. | 7,02 km | 31:13 | 4:27 /km | Müllrose |
 | Lasse Schaumann | 26.07. | 7,03 km | 31:56 | 4:32 /km | Bergedorf, Hamburg |
 | Lasse Schaumann | 28.07. | 7,03 km | 33:33 | 4:46 /km | Bergedorf, Hamburg |
