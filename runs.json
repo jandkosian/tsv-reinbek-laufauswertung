@@ -1034,5 +1034,17 @@
     "location": "Vias, Frankreich",
     "lat": 43.31,
     "lng": 3.42
+  },
+  {
+    "player": "Lasse Schaumann",
+    "date": "2026-07-28",
+    "distance_km": 7.03,
+    "duration_min": 33.55,
+    "pace_min_km": 4.767,
+    "elevation_m": 11,
+    "app": "Strava",
+    "location": "Bergedorf, Hamburg",
+    "lat": 53.49,
+    "lng": 10.20
   }
 ]
