@@ -1118,5 +1118,17 @@
     "location": "Glinde",
     "lat": 53.533,
     "lng": 10.22
+  },
+  {
+    "player": "Elias Teege",
+    "date": "2026-07-29",
+    "distance_km": 7.03,
+    "duration_min": 30.4,
+    "pace_min_km": 4.317,
+    "calories": 250,
+    "avg_hr": 181,
+    "cadence": 164,
+    "elevation_m": 6.4,
+    "note": "PR ⚡"
   }
 ]
