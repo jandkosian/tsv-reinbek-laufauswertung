@@ -1073,5 +1073,16 @@
     "location": "Hamburg",
     "lat": 53.55,
     "lng": 10.00
+  },
+  {
+    "player": "Matti Reinbothe",
+    "date": "2026-07-29",
+    "distance_km": 7.33,
+    "duration_min": 50.1,
+    "pace_min_km": 6.833,
+    "app": "Adidas Running",
+    "location": "Hasselö, Schweden",
+    "lat": 57.75,
+    "lng": 16.68
   }
 ]
