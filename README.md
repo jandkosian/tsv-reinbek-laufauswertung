@@ -65,6 +65,7 @@
 | Joshua Anani | 25.07. | **12,08 km** | 1:01:36 | 5:06 /km | Reinbek *(lange Distanz!)* |
 | Joshua Anani | 22.07. | **12,61 km** | 1:07:15 | 5:20 /km | Reinbek *(lange Distanz!)* |
 | Mateja Tomovic | 29.07. | 7,00 km | 40:03 | 5:43 /km | Rimini, Italien 🇮🇹 |
+| David Alimi | 29.07. | 7,00 km | 41:28 | 5:55 /km | Glinde |
 | Mateja Tomovic | 27.07. | 7,00 km | 36:39 | 5:14 /km | Rimini, Italien 🇮🇹 ⚡ PR |
 | Elias Santoro | 28.07. | 7,00 km | 36:09 | 5:10 /km | Finnland 🇫🇮 ⚡ PR |
 | Elias Santoro | 24.07. | 7,00 km | 36:42 | 5:14 /km | Finnland 🇫🇮 ⚡ PR |

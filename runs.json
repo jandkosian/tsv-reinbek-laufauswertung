@@ -1107,5 +1107,16 @@
     "location": "Wendtorf, Schleswig-Holstein",
     "lat": 54.38,
     "lng": 10.15
+  },
+  {
+    "player": "David Alimi",
+    "date": "2026-07-29",
+    "distance_km": 7.001,
+    "duration_min": 41.467,
+    "pace_min_km": 5.917,
+    "calories": 472,
+    "location": "Glinde",
+    "lat": 53.533,
+    "lng": 10.22
   }
 ]
