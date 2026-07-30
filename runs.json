@@ -1130,5 +1130,17 @@
     "cadence": 164,
     "elevation_m": 6.4,
     "note": "PR ⚡"
+  },
+  {
+    "player": "Nelio Kosian",
+    "date": "2026-07-30",
+    "distance_km": 7.01,
+    "duration_min": 31.867,
+    "pace_min_km": 4.546,
+    "calories": 345,
+    "location": "Neuschönningstedt",
+    "lat": 53.508,
+    "lng": 10.228,
+    "note": "PR ⚡"
   }
 ]
