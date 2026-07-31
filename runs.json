@@ -1142,5 +1142,18 @@
     "lat": 53.508,
     "lng": 10.228,
     "note": "PR ⚡"
+  },
+  {
+    "player": "Karl Schiefer",
+    "date": "2026-07-31",
+    "distance_km": 7.02,
+    "duration_min": 35.483,
+    "pace_min_km": 5.05,
+    "elevation_m": 2,
+    "app": "Strava",
+    "location": "Vias, Frankreich",
+    "lat": 43.307,
+    "lng": 3.417,
+    "note": "⚡ PR Fastest 1000m, 2 Meilen, 5km — TSV Lauf 7"
   }
 ]
