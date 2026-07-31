@@ -26,6 +26,7 @@
 | Jonte Steudten | 15.07. | 7,01 km | 31:43 | 4:31 /km | Chia, Sardinien 🇮🇹 |
 | Julius Höhne | 21.07. | 7,01 km | 32:29 | 4:38 /km | Fehmarn *(Preseason)* |
 | Julius Höhne | 20.07. | 7,00 km | 30:29 | 4:21 /km | Fehmarn *(Preseason)* |
+| Lasse Schaumann | 31.07. | 7,18 km | 32:59 | 4:36 /km | Bergedorf, Hamburg |
 | Lasse Schaumann | 21.07. | 7,04 km | 32:39 | 4:38 /km | Hourtin, Frankreich 🇫🇷 |
 | Lasse Schaumann | 18.07. | 7,01 km | 31:14 | 4:27 /km | Hourtin, Frankreich 🇫🇷 ⚡ PR |
 | Lasse Schaumann | 25.07. | 7,04 km | 33:42 | 4:47 /km | Bergedorf, Hamburg |
