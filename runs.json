@@ -1187,5 +1187,16 @@
     "location": "Aumühle",
     "lat": 53.527,
     "lng": 10.304
+  },
+  {
+    "player": "Mika Meyns",
+    "date": "2026-07-31",
+    "distance_km": 7.01,
+    "duration_min": 40.05,
+    "pace_min_km": 5.717,
+    "app": "Strava",
+    "location": "Kirchwerder, Hamburg",
+    "lat": 53.44,
+    "lng": 10.22
   }
 ]
