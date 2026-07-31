@@ -10,6 +10,7 @@
 
 | Spieler | Datum | Distanz | Zeit | Pace | Ort |
 |---|---|---|---|---|---|
+| Julius Höhne | 31.07. | 7,00 km | 28:11 | **4:02 /km** | Hamburg *(Preseason)* 🏆 Teamrekord ⚡ PR |
 | Julius Höhne | 12.07. | 7,00 km | 29:01 | 4:09 /km | Fehmarn |
 | Julius Höhne | 23.07. | 7,00 km | 29:45 | 4:15 /km | Fehmarn *(Preseason)* |
 | Julius Höhne | 12.07. | 7,02 km | 29:22 | 4:11 /km | Hamburg |

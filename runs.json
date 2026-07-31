@@ -1211,5 +1211,19 @@
     "location": "Reinbek",
     "lat": 53.521,
     "lng": 10.245
+  },
+  {
+    "player": "Julius Höhne",
+    "date": "2026-07-31",
+    "distance_km": 7.0,
+    "duration_min": 28.183,
+    "pace_min_km": 4.033,
+    "calories": 648,
+    "cadence": 164,
+    "elevation_m": 35,
+    "location": "Hamburg",
+    "lat": 53.53,
+    "lng": 10.07,
+    "note": "⚡ PR + Teamrekord! Schnellste Pace der Saison"
   }
 ]
