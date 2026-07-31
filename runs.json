@@ -1225,5 +1225,17 @@
     "lat": 53.53,
     "lng": 10.07,
     "note": "⚡ PR + Teamrekord! Schnellste Pace der Saison"
+  },
+  {
+    "player": "Fabian Lüders",
+    "date": "2026-07-31",
+    "distance_km": 7.3,
+    "duration_min": 40.383,
+    "pace_min_km": 5.533,
+    "elevation_m": 13,
+    "app": "Strava",
+    "location": "Wendtorf, Schleswig-Holstein",
+    "lat": 54.38,
+    "lng": 10.15
   }
 ]

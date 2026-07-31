@@ -61,6 +61,7 @@
 | Karl Schiefer | 31.07. | 7,02 km | 35:29 | 5:03 /km | Vias, Frankreich 🇫🇷 ⚡ PR (1km, 2mi, 5km) |
 | Karl Schiefer | 27.07. | 7,18 km | 36:15 | 5:03 /km | Vias, Frankreich 🇫🇷 ⚡ PR |
 | Karl Schiefer | 25.07. | 7,00 km | 35:48 | 5:07 /km | Vias, Frankreich 🇫🇷 ⚡ PR |
+| Fabian Lüders | 31.07. | 7,30 km | 40:23 | 5:32 /km | Wendtorf, Schleswig-Holstein |
 | Fabian Lüders | 29.07. | 7,51 km | 40:59 | 5:27 /km | Wendtorf, Schleswig-Holstein |
 | Fabian Lüders | 27.07. | 8,00 km | 41:32 | 5:11 /km | Wendtorf, Schleswig-Holstein |
 | Fabian Lüders | 25.07. | 7,04 km | 36:08 | 5:08 /km | Wendtorf, Schleswig-Holstein |
