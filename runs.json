@@ -1198,5 +1198,18 @@
     "location": "Kirchwerder, Hamburg",
     "lat": 53.44,
     "lng": 10.22
+  },
+  {
+    "player": "John Westphal",
+    "date": "2026-07-30",
+    "distance_km": 7.96,
+    "duration_min": 43.967,
+    "pace_min_km": 5.517,
+    "avg_hr": 162,
+    "cadence": 151,
+    "elevation_m": 36,
+    "location": "Reinbek",
+    "lat": 53.521,
+    "lng": 10.245
   }
 ]
