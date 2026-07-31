@@ -1176,5 +1176,16 @@
     "pace_min_km": 4.317,
     "app": "Adidas Running",
     "note": "PR ⚡"
+  },
+  {
+    "player": "Jonte Steudten",
+    "date": "2026-07-31",
+    "distance_km": 7.017,
+    "duration_min": 31.417,
+    "pace_min_km": 4.477,
+    "calories": 354,
+    "location": "Aumühle",
+    "lat": 53.527,
+    "lng": 10.304
   }
 ]
