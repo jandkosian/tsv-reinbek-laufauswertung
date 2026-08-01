@@ -1272,5 +1272,17 @@
     "lat": 53.521,
     "lng": 10.245,
     "note": "lange Distanz!"
+  },
+  {
+    "player": "Joshua Anani",
+    "date": "2026-07-19",
+    "distance_km": 12.5,
+    "duration_min": 63.96,
+    "pace_min_km": 5.117,
+    "app": "Strava",
+    "location": "Reinbek",
+    "lat": 53.521,
+    "lng": 10.245,
+    "note": "lange Distanz! ⚡ PR Fastest 10km"
   }
 ]

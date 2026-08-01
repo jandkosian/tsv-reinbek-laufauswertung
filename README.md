@@ -74,6 +74,7 @@
 | Nelio Kosian | 17.07. | 7,02 km | 36:15 | 5:10 /km | Fehmarn |
 | Lasse Schaumann | 13.07. | 7,06 km | 36:29 | 5:10 /km | Hourtin, Frankreich 🇫🇷 |
 | Joshua Anani | 29.07. | **12,02 km** | 1:04:06 | 5:20 /km | Reinbek *(lange Distanz!)* |
+| Joshua Anani | 19.07. | **12,50 km** | 1:03:58 | 5:07 /km | Reinbek *(lange Distanz!)* ⚡ PR 10km |
 | Joshua Anani | 25.07. | **12,08 km** | 1:01:36 | 5:06 /km | Reinbek *(lange Distanz!)* |
 | Joshua Anani | 22.07. | **12,61 km** | 1:07:15 | 5:20 /km | Reinbek *(lange Distanz!)* |
 | Mateja Tomovic | 29.07. | 7,00 km | 40:03 | 5:43 /km | Rimini, Italien 🇮🇹 |
