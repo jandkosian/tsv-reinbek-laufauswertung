@@ -23,6 +23,7 @@
 | Jonte Steudten | 26.07. | 7,02 km | 31:13 | 4:27 /km | Müllrose |
 | Lasse Schaumann | 26.07. | 7,03 km | 31:56 | 4:32 /km | Bergedorf, Hamburg |
 | Lasse Schaumann | 28.07. | 7,03 km | 33:33 | 4:46 /km | Bergedorf, Hamburg |
+| Jonte Steudten | 01.08. | 7,01 km | 31:06 | 4:27 /km | Aumühle |
 | Jonte Steudten | 31.07. | 7,02 km | 31:25 | 4:29 /km | Aumühle |
 | Jonte Steudten | 25.07. | 7,01 km | 31:23 | 4:28 /km | Müllrose |
 | Jonte Steudten | 18.07. | 7,02 km | 31:25 | 4:29 /km | Chia, Sardinien 🇮🇹 |

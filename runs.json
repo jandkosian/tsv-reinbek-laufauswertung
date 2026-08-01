@@ -1237,5 +1237,16 @@
     "location": "Wendtorf, Schleswig-Holstein",
     "lat": 54.38,
     "lng": 10.15
+  },
+  {
+    "player": "Jonte Steudten",
+    "date": "2026-08-01",
+    "distance_km": 7.012,
+    "duration_min": 31.1,
+    "pace_min_km": 4.435,
+    "calories": 351,
+    "location": "Aumühle",
+    "lat": 53.527,
+    "lng": 10.304
   }
 ]
