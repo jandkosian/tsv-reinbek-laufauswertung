@@ -16,7 +16,7 @@
 | Julius Höhne | 12.07. | 7,02 km | 29:22 | 4:11 /km | Hamburg |
 | Julius Höhne | 24.07. | 7,00 km | 30:21 | 4:20 /km | Hamburg *(Preseason)* |
 | Jonte Steudten | 23.07. | 7,01 km | 30:29 | 4:21 /km | Müllrose |
-| Emin | 31.07. | 7,04 km | 30:28 | 4:19 /km | — ⚡ PR |
+| Emin Bach | 31.07. | 7,04 km | 30:28 | 4:19 /km | — ⚡ PR |
 | Eliah Teege | 29.07. | 7,03 km | 30:24 | 4:19 /km | — ⚡ PR |
 | Eliah Teege | 24.07. | 7,04 km | 31:03 | 4:25 /km | — |
 | Julius Höhne | 28.07. | 7,00 km | 31:37 | 4:31 /km | Hamburg *(Preseason)* |
@@ -38,7 +38,7 @@
 | Julius Höhne | 14.07. | 8,01 km | 38:33 | 4:49 /km | Nessendorf |
 | Julius Höhne | 17.07. | 7,00 km | 32:01 | 4:34 /km | Blekendorf |
 | Fabian Lüders | 18.07. | 7,20 km | 32:55 | 4:34 /km | Glinde ⚡ PR |
-| Emin | 25.07. | 8,04 km | 36:57 | 4:35 /km | Reinbek |
+| Emin Bach | 25.07. | 8,04 km | 36:57 | 4:35 /km | Reinbek |
 | Elias Timmann | 23.07. | 7,01 km | 32:19 | 4:36 /km | Börnsen ⚡ PR |
 | Fabian Lüders | 13.07. | 7,02 km | 32:37 | 4:39 /km | Glinde |
 | Elias Timmann | 13.07. | 7,01 km | 34:09 | 4:52 /km | Börnsen |
@@ -48,7 +48,7 @@
 | Mika Meyns | 21.07. | 7,00 km | 38:50 | 5:33 /km | — *(Laufband)* |
 | Mateja Tomovic | 21.07. | 7,00 km | 39:40 | 5:40 /km | — *(Laufband)* |
 | Kjell | 21.07. | 7,02 km | 36:42 | 5:13 /km | Reinbek |
-| Emin | 21.07. | 7,02 km | 36:42 | 5:13 /km | Reinbek |
+| Emin Bach | 21.07. | 7,02 km | 36:42 | 5:13 /km | Reinbek |
 | John Westphal | 23.07. | 7,40 km | 36:34 | 4:56 /km | Reinbek |
 | John Westphal | 21.07. | 7,03 km | 34:08 | 4:51 /km | Reinbek |
 | Elias Timmann | 16.07. | 7,01 km | 33:23 | 4:45 /km | Börnsen |
