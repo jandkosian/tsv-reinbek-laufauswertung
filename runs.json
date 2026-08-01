@@ -1295,5 +1295,17 @@
     "avg_hr": 152,
     "cadence": 155,
     "note": "Laufband (Indoor)"
+  },
+  {
+    "player": "Joshua Anani",
+    "date": "2026-08-01",
+    "distance_km": 13.4,
+    "duration_min": 68.567,
+    "pace_min_km": 5.117,
+    "app": "Strava",
+    "location": "Reinbek",
+    "lat": 53.521,
+    "lng": 10.245,
+    "note": "lange Distanz! Neue Bestdistanz ⚡"
   }
 ]
