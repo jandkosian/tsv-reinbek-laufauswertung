@@ -17,8 +17,8 @@
 | Julius Höhne | 24.07. | 7,00 km | 30:21 | 4:20 /km | Hamburg *(Preseason)* |
 | Jonte Steudten | 23.07. | 7,01 km | 30:29 | 4:21 /km | Müllrose |
 | Emin | 31.07. | 7,04 km | 30:28 | 4:19 /km | — ⚡ PR |
-| Elias Teege | 29.07. | 7,03 km | 30:24 | 4:19 /km | — ⚡ PR |
-| Elias Teege | 24.07. | 7,04 km | 31:03 | 4:25 /km | — |
+| Eliah Teege | 29.07. | 7,03 km | 30:24 | 4:19 /km | — ⚡ PR |
+| Eliah Teege | 24.07. | 7,04 km | 31:03 | 4:25 /km | — |
 | Julius Höhne | 28.07. | 7,00 km | 31:37 | 4:31 /km | Hamburg *(Preseason)* |
 | Jonte Steudten | 26.07. | 7,02 km | 31:13 | 4:27 /km | Müllrose |
 | Lasse Schaumann | 26.07. | 7,03 km | 31:56 | 4:32 /km | Bergedorf, Hamburg |
@@ -114,7 +114,7 @@
 | Julian Wojtowicz | 26.07. | 8,53 km | 55:27 | 6:30 /km | Reinbek |
 | Julian Wojtowicz | 23.07. | 7,31 km | 45:51 | 6:16 /km | Reinbek |
 | Julian Wojtowicz | 19.07. | 7,11 km | 45:08 | 6:20 /km | Reinbek |
-| Elias Teege | 23.07. | 7,54 km | 48:03 | 6:22 /km | — |
+| Eliah Teege | 23.07. | 7,54 km | 48:03 | 6:22 /km | — |
 | Julian Wojtowicz | 17.07. | 7,36 km | 43:33 | 5:54 /km | — |
 | Elias Santoro | 16.07. | 7,00 km | 38:00 | 5:25 /km | Reinbek |
 
