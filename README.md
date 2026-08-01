@@ -18,6 +18,7 @@
 | Jonte Steudten | 23.07. | 7,01 km | 30:29 | 4:21 /km | Müllrose |
 | Emin Bach | 31.07. | 7,04 km | 30:28 | 4:19 /km | — ⚡ PR |
 | Eliah Teege | 29.07. | 7,03 km | 30:24 | 4:19 /km | — ⚡ PR |
+| Eliah Teege | 01.08. | 7,52 km | 41:11 | 5:29 /km | — *(Laufband)* |
 | Eliah Teege | 24.07. | 7,04 km | 31:03 | 4:25 /km | — |
 | Julius Höhne | 28.07. | 7,00 km | 31:37 | 4:31 /km | Hamburg *(Preseason)* |
 | Jonte Steudten | 26.07. | 7,02 km | 31:13 | 4:27 /km | Müllrose |
