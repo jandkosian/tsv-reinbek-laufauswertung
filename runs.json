@@ -1307,5 +1307,16 @@
     "lat": 53.521,
     "lng": 10.245,
     "note": "lange Distanz! Neue Bestdistanz ⚡"
+  },
+  {
+    "player": "Nelio Kosian",
+    "date": "2026-08-01",
+    "distance_km": 7.0,
+    "duration_min": 31.85,
+    "pace_min_km": 4.55,
+    "calories": 344,
+    "location": "Neuschönningstedt",
+    "lat": 53.508,
+    "lng": 10.228
   }
 ]

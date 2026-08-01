@@ -69,6 +69,7 @@
 | Fabian Lüders | 27.07. | 8,00 km | 41:32 | 5:11 /km | Wendtorf, Schleswig-Holstein |
 | Fabian Lüders | 25.07. | 7,04 km | 36:08 | 5:08 /km | Wendtorf, Schleswig-Holstein |
 | Jonte Steudten | 13.07. | 7,02 km | 36:13 | 5:10 /km | Chia, Sardinien 🇮🇹 |
+| Nelio Kosian | 01.08. | 7,00 km | 31:51 | 4:33 /km | Neuschönningstedt |
 | Nelio Kosian | 30.07. | 7,01 km | 31:52 | 4:33 /km | Neuschönningstedt ⚡ PR |
 | Nelio Kosian | 23.07. | 7,00 km | 32:26 | 4:38 /km | Fehmarn |
 | Nelio Kosian | 21.07. | 7,00 km | 32:43 | 4:40 /km | Fehmarn |
