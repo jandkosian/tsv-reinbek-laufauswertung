@@ -1260,5 +1260,17 @@
     "location": "Kirchwerder, Hamburg",
     "lat": 53.44,
     "lng": 10.22
+  },
+  {
+    "player": "Joshua Anani",
+    "date": "2026-07-29",
+    "distance_km": 12.02,
+    "duration_min": 64.1,
+    "pace_min_km": 5.333,
+    "app": "Strava",
+    "location": "Reinbek",
+    "lat": 53.521,
+    "lng": 10.245,
+    "note": "lange Distanz!"
   }
 ]
