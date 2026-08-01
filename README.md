@@ -42,6 +42,7 @@
 | Elias Timmann | 23.07. | 7,01 km | 32:19 | 4:36 /km | Börnsen ⚡ PR |
 | Fabian Lüders | 13.07. | 7,02 km | 32:37 | 4:39 /km | Glinde |
 | Elias Timmann | 13.07. | 7,01 km | 34:09 | 4:52 /km | Börnsen |
+| Mika Meyns | 01.08. | 7,03 km | 40:36 | 5:47 /km | Kirchwerder, Hamburg |
 | Mika Meyns | 31.07. | 7,01 km | 40:03 | 5:43 /km | Kirchwerder, Hamburg |
 | Mika Meyns | 24.07. | 7,00 km | 38:50 | 5:33 /km | — *(Laufband)* |
 | Mika Meyns | 21.07. | 7,00 km | 38:50 | 5:33 /km | — *(Laufband)* |
