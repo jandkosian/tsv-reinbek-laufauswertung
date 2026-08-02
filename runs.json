@@ -1318,5 +1318,16 @@
     "location": "Neuschönningstedt",
     "lat": 53.508,
     "lng": 10.228
+  },
+  {
+    "player": "Jonte Steudten",
+    "date": "2026-08-02",
+    "distance_km": 7.01,
+    "duration_min": 30.567,
+    "pace_min_km": 4.36,
+    "calories": 345,
+    "location": "Aumühle",
+    "lat": 53.527,
+    "lng": 10.304
   }
 ]
