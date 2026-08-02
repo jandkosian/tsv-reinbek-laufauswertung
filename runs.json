@@ -1329,5 +1329,18 @@
     "location": "Aumühle",
     "lat": 53.527,
     "lng": 10.304
+  },
+  {
+    "player": "Lasse Schaumann",
+    "date": "2026-08-02",
+    "distance_km": 7.0,
+    "duration_min": 29.883,
+    "pace_min_km": 4.267,
+    "elevation_m": 8,
+    "app": "Strava",
+    "location": "Bergedorf, Hamburg",
+    "lat": 53.488,
+    "lng": 10.21,
+    "note": "⚡ PR — 11s schneller als alter Rekord (4:27)"
   }
 ]

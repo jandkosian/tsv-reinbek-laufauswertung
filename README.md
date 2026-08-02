@@ -34,7 +34,8 @@
 | Julius Höhne | 20.07. | 7,00 km | 30:29 | 4:21 /km | Fehmarn *(Preseason)* |
 | Lasse Schaumann | 31.07. | 7,18 km | 32:59 | 4:36 /km | Bergedorf, Hamburg |
 | Lasse Schaumann | 21.07. | 7,04 km | 32:39 | 4:38 /km | Hourtin, Frankreich 🇫🇷 |
-| Lasse Schaumann | 18.07. | 7,01 km | 31:14 | 4:27 /km | Hourtin, Frankreich 🇫🇷 ⚡ PR |
+| Lasse Schaumann | 02.08. | 7,00 km | 29:53 | **4:16 /km** | Bergedorf, Hamburg ⚡ PR |
+| Lasse Schaumann | 18.07. | 7,01 km | 31:14 | 4:27 /km | Hourtin, Frankreich 🇫🇷 *(alter PR)* |
 | Lasse Schaumann | 25.07. | 7,04 km | 33:42 | 4:47 /km | Bergedorf, Hamburg |
 | Lasse Schaumann | 16.07. | 7,02 km | 34:37 | 4:56 /km | Hourtin, Frankreich 🇫🇷 |
 | Julius Höhne | 14.07. | 8,01 km | 38:33 | 4:49 /km | Nessendorf |
