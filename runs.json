@@ -1342,5 +1342,14 @@
     "lat": 53.488,
     "lng": 10.21,
     "note": "⚡ PR — 11s schneller als alter Rekord (4:27)"
+  },
+  {
+    "player": "Kjell",
+    "date": "2026-08-02",
+    "distance_km": 7.1,
+    "duration_min": 32.85,
+    "pace_min_km": 4.633,
+    "app": "Adidas Running",
+    "note": "⚡ PR"
   }
 ]

@@ -57,6 +57,7 @@
 | Elias Timmann | 16.07. | 7,01 km | 33:23 | 4:45 /km | Börnsen |
 | Elias Timmann | 25.07. | 8,14 km | 38:12 | 4:41 /km | Börnsen |
 | Elias Timmann | 21.07. | 7,02 km | 33:10 | 4:43 /km | Börnsen |
+| Kjell | 02.08. | 7,10 km | 32:51 | 4:38 /km | — ⚡ PR |
 | Kjell | 23.07. | 7,01 km | 33:11 | 4:44 /km | Reinbek |
 | Elias Timmann | 18.07. | 7,00 km | 33:21 | 4:45 /km | Börnsen |
 | Steewen Neugebauer | 13.07. | 7,10 km | 34:46 | 4:54 /km | Reinbek |
