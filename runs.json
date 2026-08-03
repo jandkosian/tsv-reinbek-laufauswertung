@@ -1351,5 +1351,17 @@
     "pace_min_km": 4.633,
     "app": "Adidas Running",
     "note": "⚡ PR"
+  },
+  {
+    "player": "Fabian Lüders",
+    "date": "2026-08-02",
+    "distance_km": 7.1,
+    "duration_min": 33.4,
+    "pace_min_km": 4.7,
+    "elevation_m": 24,
+    "app": "Strava",
+    "location": "Bornhöved, Schleswig-Holstein",
+    "lat": 54.083,
+    "lng": 10.233
   }
 ]

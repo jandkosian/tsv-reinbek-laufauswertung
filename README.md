@@ -43,6 +43,7 @@
 | Fabian Lüders | 18.07. | 7,20 km | 32:55 | 4:34 /km | Glinde ⚡ PR |
 | Emin Bach | 25.07. | 8,04 km | 36:57 | 4:35 /km | Reinbek |
 | Elias Timmann | 23.07. | 7,01 km | 32:19 | 4:36 /km | Börnsen ⚡ PR |
+| Fabian Lüders | 02.08. | 7,10 km | 33:24 | 4:42 /km | Bornhöved, Schleswig-Holstein |
 | Fabian Lüders | 13.07. | 7,02 km | 32:37 | 4:39 /km | Glinde |
 | Elias Timmann | 13.07. | 7,01 km | 34:09 | 4:52 /km | Börnsen |
 | Mika Meyns | 01.08. | 7,03 km | 40:36 | 5:47 /km | Kirchwerder, Hamburg |
