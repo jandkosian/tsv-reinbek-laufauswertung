@@ -1375,5 +1375,18 @@
     "location": "München",
     "lat": 48.13,
     "lng": 11.565
+  },
+  {
+    "player": "Karl Schiefer",
+    "date": "2026-08-04",
+    "distance_km": 7.0,
+    "duration_min": 36.0,
+    "pace_min_km": 5.133,
+    "elevation_m": 30,
+    "app": "Strava",
+    "location": "Antibes, Frankreich",
+    "lat": 43.58,
+    "lng": 7.125,
+    "note": "TSV Lauf 8"
   }
 ]
