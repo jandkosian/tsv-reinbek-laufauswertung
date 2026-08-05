@@ -1388,5 +1388,18 @@
     "lat": 43.58,
     "lng": 7.125,
     "note": "TSV Lauf 8"
+  },
+  {
+    "player": "Karl Schiefer",
+    "date": "2026-08-05",
+    "distance_km": 7.0,
+    "duration_min": 35.933,
+    "pace_min_km": 5.133,
+    "elevation_m": 32,
+    "app": "Strava",
+    "location": "Antibes, Frankreich",
+    "lat": 43.58,
+    "lng": 7.125,
+    "note": "TSV Lauf 9 — ⚡ PR Fastest 2 Meilen + 1000m"
   }
 ]
