@@ -1414,5 +1414,17 @@
     "lat": 43.58,
     "lng": 7.125,
     "note": "TSV Lauf 10 — ⚡ PR Fastest 1000m, 400m, ½ Meile"
+  },
+  {
+    "player": "Fabian Lüders",
+    "date": "2026-08-05",
+    "distance_km": 7.3,
+    "duration_min": 36.733,
+    "pace_min_km": 5.033,
+    "app": "Strava",
+    "location": "Bornhöved, Schleswig-Holstein",
+    "lat": 54.083,
+    "lng": 10.233,
+    "note": "Nachtlauf"
   }
 ]
