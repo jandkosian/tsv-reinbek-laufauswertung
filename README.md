@@ -65,6 +65,7 @@
 | Steewen Neugebauer | 16.07. | 7,05 km | 30:11 | 4:17 /km | Reinbek |
 | Nelio Kosian | 26.07. | 7,01 km | 35:31 | 5:03 /km | Reinbek |
 | Nelio Kosian | 12.07. | 7,02 km | 35:30 | 5:04 /km | Fehmarn |
+| Karl Schiefer | 06.08. | 7,00 km | 36:20 | 5:11 /km | Antibes, Frankreich 🇫🇷 ⚡ PR (1km, 400m, ½mi) |
 | Karl Schiefer | 05.08. | 7,00 km | 35:56 | 5:08 /km | Antibes, Frankreich 🇫🇷 ⚡ PR (2mi, 1km) |
 | Karl Schiefer | 04.08. | 7,00 km | 36:00 | 5:08 /km | Antibes, Frankreich 🇫🇷 |
 | Karl Schiefer | 31.07. | 7,02 km | 35:29 | 5:03 /km | Vias, Frankreich 🇫🇷 ⚡ PR (1km, 2mi, 5km) |
